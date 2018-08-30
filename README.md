@@ -1,5 +1,5 @@
 # Awsome-Image-Inpainting
-A list of resources for example-based single image super-resolution, inspired by [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) .
+A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) .
 
 ### Early methods
 [1] Marcelo Bertalmio and Guillermo Sapiro, Vicent Caselles and Coloma Ballester, Image Inpainting, SIGGRAPH, 2000. [[paper]](http://www.dtic.upf.edu/~mbertalmio/bertalmi.pdf)  
@@ -7,8 +7,6 @@ A list of resources for example-based single image super-resolution, inspired by
 [2] Marcelo Bertalmio, Luminita Vese, Guillermo Sapiro, Simultaneous Structure and Texture Image Inpainting, TIP, 2003. [[paper]](http://www.math.ucla.edu/~lvese/PAPERS/01217265.pdf)
 
 [3] A. Criminisi, P. P´erez and K. Toyama, Region Filling and Object Removal by Exemplar-Based Image Inpainting, TIP, 2004. [[paper]](http://www.irisa.fr/vista/Papers/2004_ip_criminisi.pdf)
-
-
 
 
 
