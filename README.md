@@ -1,6 +1,13 @@
 # Awsome-Image-Inpainting
 A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) .
 
+
+![teaser](https://github.com/pathak22/context-encoder/blob/master/images/teaser.jpg "Sample inpainting results on held-out images")
+
+
+
+
+
 ### Early methods
 [1] Marcelo Bertalmio and Guillermo Sapiro, Vicent Caselles and Coloma Ballester, Image Inpainting, SIGGRAPH, 2000. [[paper]](http://www.dtic.upf.edu/~mbertalmio/bertalmi.pdf)  
 
