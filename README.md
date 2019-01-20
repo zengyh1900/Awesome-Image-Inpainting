@@ -15,10 +15,12 @@ A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](http
 
 [3] A. Criminisi, P. P´erez and K. Toyama, Region Filling and Object Removal by Exemplar-Based Image Inpainting, TIP, 2004. [[paper]](http://www.irisa.fr/vista/Papers/2004_ip_criminisi.pdf)
 
-[4] Jian Sun, Lu Yuan, Jiaya Jia, Heung-Yeung Shum, Image completion with Structure Propagation, SIGGRAPH, 2005. [[paper]](http://webee.technion.ac.il/cgm/Computer-Graphics-Multimedia/Undergraduate-Projects/2009/ImageCompletion/ImageCompletion_SIGGRAPH05.pdf)
+[4] Jian Sun, Lu Yuan, Jiaya Jia, Heung-Yeung Shum, Image Completion with Structure Propagation, SIGGRAPH, 2005. [[paper]](http://webee.technion.ac.il/cgm/Computer-Graphics-Multimedia/Undergraduate-Projects/2009/ImageCompletion/ImageCompletion_SIGGRAPH05.pdf)
+
+[5] J.-B Huang, S.B. kang, N. Ahuja, and j. Kopf. Image completion using Planar structure guidance. ACM Transactions on graohics (TOG). [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf) [[code]](https://github.com/jbhuang0604/StructCompletion) [[project]](https://sites.google.com/site/jbhuang0604/publications/struct_completion)
 
 
-
+-----------
 
 ### Deep Architectures
 [1] Jimmy SJ. Ren, Li xu, Qiong Yan, Wenxiu Sun, Shepard Convolutional Neural Networks, NIPS, 2015. [[paper]](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf) [[code]](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
@@ -46,3 +48,7 @@ A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](http
 [12] Yuhang Song, Chao Yang, Yeji Shen, Peng Wang, Qin Huang, C.-C. Jay Kuo, SPG-Net: Segmentation Prediction and Guidance Network for Image Inpainting, BMVC, 2018. [[paper]](https://arxiv.org/abs/1805.03356)
 
 [13] Huy V. Vo, Ngoc Q. K. Duong, Patrick Perez, Structural inpainting, MM, 2018. [[paper]](https://arxiv.org/abs/1803.10348)
+
+[14] Haofu Liao1, Gareth Funka-Lea, Yefeng Zheng, Jiebo Luo and S. Kevin Zhou. Face Completion iwht Semantic Knowledge and Collaborative Adversarial Learning, ACCV, 2018. [paper](https://arxiv.org/pdf/1812.03252.pdf)
+
+[15] Wei Xiong, Zhe Lin, Jimei Yang, Xin Lu, Connelly Barnes, and Jiebo Luo. Arxiv 2019. [[paper]](https://arxiv.org/abs/1901.05945)
