@@ -105,4 +105,5 @@ A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](http
 
 [6] Qingguo Xiao,Guangyao Li,Qiaochuan Chen. Deep Inception Generative network for Cognitive Image Inpainting. Arxiv 2019. [[paper]]( https://arxiv.org/pdf/1812.01458.pdf)
 
+[7] Ryan Webster, Julien Rabin, Lo¨ıc Simon and Fred´ eric Jurie. Detecting Overfitting of Deep Generative Networks via Latent Recovery. Arxiv 2019. [[paper]](https://arxiv.org/pdf/1901.03396.pdf)
 
