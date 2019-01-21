@@ -20,7 +20,6 @@ A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](http
 [5] J.-B Huang, S.B. kang, N. Ahuja, and j. Kopf. Image completion using Planar structure guidance. ACM Transactions on graohics (TOG). [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf) [[code]](https://github.com/jbhuang0604/StructCompletion) [[project]](https://sites.google.com/site/jbhuang0604/publications/struct_completion)
 
 
------------
 
 ## Deep Architectures (Learning Based)
 
