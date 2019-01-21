@@ -88,7 +88,7 @@ A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](http
 
 ### ACCV 2018
 
-[1] Haofu Liao1, Gareth Funka-Lea, Yefeng Zheng, Jiebo Luo and S. Kevin Zhou. Face Completion iwht Semantic Knowledge and Collaborative Adversarial Learning, ACCV, 2018. [paper](https://arxiv.org/pdf/1812.03252.pdf)
+[1] Haofu Liao1, Gareth Funka-Lea, Yefeng Zheng, Jiebo Luo and S. Kevin Zhou. Face Completion iwht Semantic Knowledge and Collaborative Adversarial Learning, ACCV, 2018. [[paper]](https://arxiv.org/pdf/1812.03252.pdf)
 
 
 ### Arxiv 2018-2019
