@@ -83,7 +83,7 @@ A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](http
 
 [1] Huy V. Vo, Ngoc Q. K. Duong, Patrick Perez, Structural inpainting, MM, 2018. [[paper]](https://arxiv.org/abs/1803.10348)
 
-[2] Haoran Zhang, Zhenzhen Hu, Changzhi Luo, Wangmeng Zuo, Meng Wang. Semantic Image Inpainting with Progressive Generative Networks. MM 2018. [[paper]](https://dl.acm.org/citation.cfm?id=3240625)
+[2] Haoran Zhang, Zhenzhen Hu, Changzhi Luo, Wangmeng Zuo, Meng Wang. Semantic Image Inpainting with Progressive Generative Networks. MM 2018. [[paper]](https://dl.acm.org/citation.cfm?id=3240625) [[code]](https://github.com/crashmoon/Progressive-Generative-Networks)
 
 
 ### ACCV 2018
