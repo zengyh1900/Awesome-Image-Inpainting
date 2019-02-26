@@ -94,6 +94,9 @@ A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](http
 ### ICASSP 2018
 [1] Liang Liao, Ruimin Hu, Jing Xiao, Zhongyuan Wang. Edge-Aware Context Encoder for Image Inpainting. [[paper]](http://mirlab.org/conference_papers/International_Conference/ICASSP%202018/pdfs/0003156.pdf)
 
+### ACM Transactions on Graphics (TOG) 2018
+[1] Portenier, Tiziano, et al. Faceshop: Deep sketch-based face image editing. [[paper]](https://arxiv.org/abs/1804.08972)
+
 ### Arxiv 2018-2019
 
 [1] Zeyuan Chen, Shaoliang Nie, Tianfu Wu, Christopher G. Healey. High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks. Arxiv 2018. [[paper]](https://arxiv.org/pdf/1812.01458.pdf)
