@@ -1,4 +1,4 @@
-# Awsome-Image-Inpainting
+# Awesome-Image-Inpainting
 A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) .
 
 
