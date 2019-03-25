@@ -118,4 +118,4 @@ Please feel free to [pull requests](https://github.com/1900zyh/Awesome-Image-Inp
 
 ### CVPR 2019
 
-[1] Zheng, Chuanxia and Cham, Tat-Jen and Cai, Jianfei. CVPR 2019. [[paper]](https://arxiv.org/abs/1903.04227) [[code]](https://github.com/lyndonzheng/Pluralistic-Inpainting) [[project]](http://www.chuanxiaz.com/publication/pluralistic/)
+[1] Zheng, Chuanxia and Cham, Tat-Jen and Cai, Jianfei. Pluralistic Image Completion. CVPR 2019. [[paper]](https://arxiv.org/abs/1903.04227) [[code]](https://github.com/lyndonzheng/Pluralistic-Inpainting) [[project]](http://www.chuanxiaz.com/publication/pluralistic/)
