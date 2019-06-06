@@ -98,23 +98,13 @@ Please feel free to [pull requests](https://github.com/1900zyh/Awesome-Image-Inp
 ### ACM Transactions on Graphics (TOG) 2018
 [1] Portenier, Tiziano, et al. Faceshop: Deep sketch-based face image editing. [[paper]](https://arxiv.org/abs/1804.08972)
 
-### Arxiv 2018-2019
+### Arxiv 2018
 
 [1] Zeyuan Chen, Shaoliang Nie, Tianfu Wu, Christopher G. Healey. High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks. Arxiv 2018. [[paper]](https://arxiv.org/pdf/1812.01458.pdf)
 
 [2] Sandipan Banerjee, Walter J. Scheirer, Kevin W. Bowyer, and Patrick J. Flynn. On Hallucinating Context and Background Pixels from a Face Mask using Multi-scale GANs, Arxiv 2018. [[paper]](https://arxiv.org/pdf/1811.07104.pdf)
 
 [3] Jiahui Yu, Zhe Lin, Jimei Yang, Xiaohui Shen, Xin Lu, Thomas S. Huang, Free-Form Image Inpainting with Gated Convolution, arxiv, 2018. [[paper]](https://arxiv.org/abs/1806.03589) [[project]](http://jiahuiyu.com/deepfill2/)
-
-[4] Kamyar Nazeri, Eric Ng, Tony Joseph, Faisal Z. Qureshi, Mehran Ebrahimi. EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning. Arxiv 2019. [[paper]](http://arxiv.org/abs/1901.00212) [[code]](https://github.com/knazeri/edge-connect)
-
-[5] Qingguo Xiao,Guangyao Li,Qiaochuan Chen. Deep Inception Generative network for Cognitive Image Inpainting. Arxiv 2019. [[paper]]( https://arxiv.org/pdf/1812.01458.pdf)
-
-[6] Ryan Webster, Julien Rabin, Lo¨ıc Simon and Fred´ eric Jurie. Detecting Overfitting of Deep Generative Networks via Latent Recovery. Arxiv 2019. [[paper]](https://arxiv.org/pdf/1901.03396.pdf)
-
-[7] Youngjoo Jo, Jongyoul Park. SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch. Arxiv 2019. [[paper]](https://arxiv.org/abs/1902.06838) [[code]](https://github.com/JoYoungjoo/SC-FEGAN)
-
-[8] Xin Hong and Pengfei Xiong and Renhe Ji and Haoqiang Fan. Deep Fusion Network for Image completion. Arxiv 2019. [[paper]](https://arxiv.org/abs/1904.08060) [[code]](https://github.com/hughplay/DFNet)
 
 
 ### CVPR 2019
@@ -124,3 +114,31 @@ Please feel free to [pull requests](https://github.com/1900zyh/Awesome-Image-Inp
 [2] Zeng, Yanhong and Fu, Jianlong and Chao, Hongyang and Guo, Baining. Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting. CVPR 2019. [[paper]](https://arxiv.org/abs/1904.07475) [[code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
 
 [3] Wei Xiong, Jiahui Yu, Zhe Lin, Jimei Yang, Xin Lu, Connelly Barnes, and Jiebo Luo. Foreground-aware Image Inpainting. CVPR 2019. [[paper]](https://arxiv.org/abs/1901.05945)
+
+[4] Han, X., Zhang, Z., Du, D., Yang, M., Yu, J., Pan, P., & Cui, S. (2019). Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image. [[paper]](https://arxiv.org/pdf/1903.04019.pdf)
+
+[5] Sagong, M. C., Shin, Y. G., Kim, S. W., Park, S., & Ko, S. J. (2019). PEPSI: Fast Image Inpainting With Parallel Decoding Network. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 11360-11368).
+
+[6] Grigorev, A., Sevastopolsky, A., Vakhitov, A., & Lempitsky, V. (2019). Coordinate-Based Texture Inpainting for Pose-Guided Human Image Generation. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 12135-12144). [[paper]](https://arxiv.org/abs/1811.11459)
+
+[7] Xu, R., Li, X., Zhou, B., & Loy, C. C. (2019). Deep Flow-Guided Video Inpainting.[[paper]](https://arxiv.org/abs/1905.02884)
+
+[8] Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. (2019). Deep Video Inpainting. [[paper]](https://arxiv.org/abs/1905.01639)
+
+
+
+
+### Arxiv 2019 
+
+[1] Kamyar Nazeri, Eric Ng, Tony Joseph, Faisal Z. Qureshi, Mehran Ebrahimi. EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning. Arxiv 2019. [[paper]](http://arxiv.org/abs/1901.00212) [[code]](https://github.com/knazeri/edge-connect)
+
+[2] Qingguo Xiao,Guangyao Li,Qiaochuan Chen. Deep Inception Generative network for Cognitive Image Inpainting. Arxiv 2019. [[paper]]( https://arxiv.org/pdf/1812.01458.pdf)
+
+[3] Ryan Webster, Julien Rabin, Lo¨ıc Simon and Fred´ eric Jurie. Detecting Overfitting of Deep Generative Networks via Latent Recovery. Arxiv 2019. [[paper]](https://arxiv.org/pdf/1901.03396.pdf)
+
+[4] Youngjoo Jo, Jongyoul Park. SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch. Arxiv 2019. [[paper]](https://arxiv.org/abs/1902.06838) [[code]](https://github.com/JoYoungjoo/SC-FEGAN)
+
+[5] Xin Hong and Pengfei Xiong and Renhe Ji and Haoqiang Fan. Deep Fusion Network for Image completion. Arxiv 2019. [[paper]](https://arxiv.org/abs/1904.08060) [[code]](https://github.com/hughplay/DFNet)
+
+[6] Shin, Y. G., Sagong, M. C., Yeo, Y. J., Kim, S. W., & Ko, S. J. (2019). PEPSI++: Fast and Lightweight Network for Image Inpainting. [[paper]](https://arxiv.org/pdf/1905.09010.pdf)
+
