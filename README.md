@@ -115,15 +115,15 @@ Please feel free to [pull requests](https://github.com/1900zyh/Awesome-Image-Inp
 
 [3] Wei Xiong, Jiahui Yu, Zhe Lin, Jimei Yang, Xin Lu, Connelly Barnes, and Jiebo Luo. Foreground-aware Image Inpainting. CVPR 2019. [[paper]](https://arxiv.org/abs/1901.05945)
 
-[4] Han, X., Zhang, Z., Du, D., Yang, M., Yu, J., Pan, P., & Cui, S. (2019). Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image. [[paper]](https://arxiv.org/pdf/1903.04019.pdf)
+[4] Han, X., Zhang, Z., Du, D., Yang, M., Yu, J., Pan, P., & Cui, S. CVPR 2019. Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image. [[paper]](https://arxiv.org/pdf/1903.04019.pdf)
 
-[5] Sagong, M. C., Shin, Y. G., Kim, S. W., Park, S., & Ko, S. J. (2019). PEPSI: Fast Image Inpainting With Parallel Decoding Network. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 11360-11368).
+[5] Sagong, M. C., Shin, Y. G., Kim, S. W., Park, S., & Ko, S. J. CVPR 2019. PEPSI: Fast Image Inpainting With Parallel Decoding Network. (pp. 11360-11368).
 
-[6] Grigorev, A., Sevastopolsky, A., Vakhitov, A., & Lempitsky, V. (2019). Coordinate-Based Texture Inpainting for Pose-Guided Human Image Generation. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 12135-12144). [[paper]](https://arxiv.org/abs/1811.11459)
+[6] Grigorev, A., Sevastopolsky, A., Vakhitov, A., & Lempitsky, V. (2019). Coordinate-Based Texture Inpainting for Pose-Guided Human Image Generation. (pp. 12135-12144). [[paper]](https://arxiv.org/abs/1811.11459)
 
-[7] Xu, R., Li, X., Zhou, B., & Loy, C. C. (2019). Deep Flow-Guided Video Inpainting.[[paper]](https://arxiv.org/abs/1905.02884)
+[7] Xu, R., Li, X., Zhou, B., & Loy, C. C. Deep Flow-Guided Video Inpainting.[[paper]](https://arxiv.org/abs/1905.02884)[[code]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)
 
-[8] Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. (2019). Deep Video Inpainting. [[paper]](https://arxiv.org/abs/1905.01639)
+[8] Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. Deep Video Inpainting. [[paper]](https://arxiv.org/abs/1905.01639)[[code]](https://github.com/mcahny/Deep-Video-Inpainting)
 
 
 
