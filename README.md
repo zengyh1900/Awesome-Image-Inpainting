@@ -115,6 +115,8 @@ Please feel free to [pull requests](https://github.com/1900zyh/Awesome-Image-Inp
 
 [8] Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. (2019). Deep Video Inpainting. CVPR. [[paper]](https://arxiv.org/abs/1905.01639)[[code]](https://github.com/mcahny/Deep-Video-Inpainting)
 
+[9] Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. (2019). Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence. CVPR. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Blind_Video_Decaptioning_by_Temporal_Aggregation_and_Recurrence_CVPR_2019_paper.pdf)
+
 
 
 
