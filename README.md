@@ -107,7 +107,7 @@ Please feel free to [pull requests](https://github.com/1900zyh/Awesome-Image-Inp
 
 [4] Han, X., Zhang, Z., Du, D., Yang, M., Yu, J., Pan, P., ... & Cui, S. (2019). Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image. CVPR. [[paper]](https://arxiv.org/pdf/1903.04019.pdf)
 
-[5] Sagong, M. C., Shin, Y. G., Kim, S. W., Park, S., & Ko, S. J. (2019). PEPSI: Fast Image Inpainting With Parallel Decoding Network. CVPR (pp. 11360-11368).
+[5] Sagong, M. C., Shin, Y. G., Kim, S. W., Park, S., & Ko, S. J. (2019). PEPSI: Fast Image Inpainting With Parallel Decoding Network. CVPR (pp. 11360-11368). [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sagong_PEPSI__Fast_Image_Inpainting_With_Parallel_Decoding_Network_CVPR_2019_paper.pdf)
 
 [6] Grigorev, A., Sevastopolsky, A., Vakhitov, A., & Lempitsky, V. (2019). Coordinate-Based Texture Inpainting for Pose-Guided Human Image Generation. CVPR (pp. 12135-12144). [[paper]](https://arxiv.org/abs/1811.11459)
 
