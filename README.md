@@ -1,6 +1,8 @@
 # Awesome-Image-Inpainting
 A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) .
 
+The list of resources for Video Inpainting can be found in [[Awesome-Image-Inpainting]](https://github.com/1900zyh/Awesome-Video-Inapinting)
+
 Please feel free to [pull requests](https://github.com/1900zyh/Awesome-Image-Inpainting/pulls) to add papers.
 
 ![teaser](https://github.com/pathak22/context-encoder/blob/master/images/teaser.jpg "Sample inpainting results on held-out images")
@@ -110,13 +112,6 @@ Please feel free to [pull requests](https://github.com/1900zyh/Awesome-Image-Inp
 [5] Sagong, M. C., Shin, Y. G., Kim, S. W., Park, S., & Ko, S. J. (2019). PEPSI: Fast Image Inpainting With Parallel Decoding Network. CVPR (pp. 11360-11368). [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sagong_PEPSI__Fast_Image_Inpainting_With_Parallel_Decoding_Network_CVPR_2019_paper.pdf)
 
 [6] Grigorev, A., Sevastopolsky, A., Vakhitov, A., & Lempitsky, V. (2019). Coordinate-Based Texture Inpainting for Pose-Guided Human Image Generation. CVPR (pp. 12135-12144). [[paper]](https://arxiv.org/abs/1811.11459)
-
-[7] Xu, R., Li, X., Zhou, B., & Loy, C. C. (2019). Deep Flow-Guided Video Inpainting. CVPR. [[paper]](https://arxiv.org/abs/1905.02884)[[code]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting)
-
-[8] Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. (2019). Deep Video Inpainting. CVPR. [[paper]](https://arxiv.org/abs/1905.01639)[[code]](https://github.com/mcahny/Deep-Video-Inpainting)
-
-[9] Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. (2019). Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence. CVPR. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Blind_Video_Decaptioning_by_Temporal_Aggregation_and_Recurrence_CVPR_2019_paper.pdf)
-
 
 
 
