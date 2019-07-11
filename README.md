@@ -79,3 +79,4 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 ## Challenge 
 
 1. [2018 Looking at People ECCV Satellite Challenge](http://chalearnlap.cvc.uab.es/challenge/26/description/)
+2. [2019 ICME Grand Challenge Learning-Based Image Inpainting](https://icme19inpainting.github.io/)
