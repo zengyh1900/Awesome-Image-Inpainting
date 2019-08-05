@@ -56,24 +56,36 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 34. [SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color](https://arxiv.org/abs/1902.06838). Jo, Y., & Park, J. (2019). Arxiv2019. [[code]](https://github.com/JoYoungjoo/SC-FEGAN)
 35. [Deep Fusion Network for Image Completion](https://arxiv.org/abs/1904.08060). Hong, X., Xiong, P., Ji, R., & Fan, H. Arxiv2019. [[code]](https://github.com/hughplay/DFNet)
 36. [PEPSI++: Fast and Lightweight Network for Image Inpainting](https://arxiv.org/pdf/1905.09010.pdf). Shin, Y. G., Sagong, M. C., Yeo, Y. J., Kim, S. W., & Ko, S. J. Arxiv2019. 
-
+37. [Generative Image Inpainting with Submanifold Alignment](https://arxiv.org/abs/1908.00211) Ang Li, Jianzhong Qi, Rui Zhang, Xingjun Ma, Kotagiri Ramamohanarao. In IJCAI2019. 
 
 
 ## Video Inpainting 
 
 ### Classical methods (Non-learning based)
 
-1. [Background inpainting for videos with dynamic objects and a free-moving camera](https://gvv.mpi-inf.mpg.de/projects/vidbginp/granados12b_vidbginp.pdf). Springer, Berlin, Heidelberg. Granados, M., Kim, K. I., Tompkin, J., Kautz, J., & Theobalt, C. ECCV2012. [[project]](https://gvv.mpi-inf.mpg.de/projects/vidbginp/index.html)
-2. [Video inpainting of complex scenes](https://perso.telecom-paristech.fr/gousseau/video_inpainting/Video_inpainting_complex_scenes.pdf). Newson, A., Almansa, A., Fradet, M., Gousseau, Y., & Pérez, P. SIAM Journal on Imaging Sciences, 7(4), 1993-2019. [[project]](https://perso.telecom-paristech.fr/gousseau/video_inpainting/) 
-3. [Temporally coherent completion of dynamic video](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SigAsia_2016_VideoCompletion.pdf). Huang, J. B., Kang, S. B., Ahuja, N., & Kopf, J. TOG2016. [[project]](https://filebox.ece.vt.edu/~jbhuang/project/vidcomp/index.html) [[code]](https://github.com/amjltc295/Temporally-Coherent-Completion-of-Dynamic-Video)
+1. [Navier-stokes, fluid dynamics, and image and video inpainting](https://www.math.ucla.edu/~bertozzi/papers/cvpr01.pdf). Bertalmio, M., Bertozzi, A. L., & Sapiro, G. CVPR2001 (Vol. 1, pp. I-I). IEEE.
+2. [Video inpainting of occluding and occluded objects](http://kedarpatwardhan.org/Research/pdfs/VideoInpainting.pdf). Patwardhan, K. A., Sapiro, G., & Bertalmio, M. In IEEE International Conference on Image Processing 2005 (Vol. 2, pp. II-69). IEEE.
+3. [Full-frame video stabilization with motion inpainting](http://mmlab.ie.cuhk.edu.hk/archive/2006/01634345.pdf). Matsushita, Y., Ofek, E., Ge, W., Tang, X., & Shum, H. Y. TPAMI2006, (7), 1150-1163. [[project]](https://docs.opencv.org/master/d5/d50/group__videostab.html)
+4. [Video completion by motion field transfer](https://www.cs.cmu.edu/~siratori/pub/CVPR2006shiratori.pdf). Shiratori, T., Matsushita, Y., Tang, X., & Kang, S. B. (2006, June). CVPR2006 (Vol. 1, pp. 411-418). [[project]](https://www.cs.cmu.edu/~siratori/MotionFieldTransfer/index.html)
+5. [Space-time completion of video](http://www.wisdom.weizmann.ac.il/~vision/VideoCompletion/SpaceTimeCompletion.pdf). Wexler, Y., Shechtman, E., & Irani, M. TPAMI2007, (3), 463-476. [[project]](http://www.wisdom.weizmann.ac.il/~vision/VideoCompletion.html)
+6. [Video inpainting under constrained camera motion](http://kedarpatwardhan.org/Research/pdfs/kedar_tip07.pdf). Patwardhan, K. A., Sapiro, G., & Bertalmío, M. TIP2007, 16(2), 545-553.
+7. [How not to be seen—object removal from videos of crowded scenes](https://gvv.mpi-inf.mpg.de/projects/vidinp/granados12_vidinp.pdf). Granados, M., Tompkin, J., Kim, K., Grau, O., Kautz, J., & Theobalt, C. In Computer Graphics Forum 2012 (Vol. 31, No. 2pt1, pp. 219-228). [[project]](https://gvv.mpi-inf.mpg.de/projects/vidinp/)
+8. [Background inpainting for videos with dynamic objects and a free-moving camera](https://gvv.mpi-inf.mpg.de/projects/vidbginp/granados12b_vidbginp.pdf). Springer, Berlin, Heidelberg. Granados, M., Kim, K. I., Tompkin, J., Kautz, J., & Theobalt, C. ECCV2012. [[project]](https://gvv.mpi-inf.mpg.de/projects/vidbginp/index.html)
+9. [Video inpainting of complex scenes](https://perso.telecom-paristech.fr/gousseau/video_inpainting/Video_inpainting_complex_scenes.pdf). Newson, A., Almansa, A., Fradet, M., Gousseau, Y., & Pérez, P. SIAM Journal on Imaging Sciences 2014, 7(4), 1993-2019. [[project]](https://perso.telecom-paristech.fr/gousseau/video_inpainting/) 
+10. [Video inpainting with short-term windows: application to object removal and error concealment](https://hal.inria.fr/hal-01204677/file/Ebdelli_videoInpainting_TIP2015.pdf). Ebdelli, M., Le Meur, O., & Guillemot, C. TIP2015, 24(10), 3034-3047.
+11. [Temporally coherent completion of dynamic video](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SigAsia_2016_VideoCompletion.pdf). Huang, J. B., Kang, S. B., Ahuja, N., & Kopf, J. TOG2016. [[project]](https://filebox.ece.vt.edu/~jbhuang/project/vidcomp/index.html) [[code]](https://github.com/amjltc295/Temporally-Coherent-Completion-of-Dynamic-Video)
 
 ### Deep Architectures (Learning Based)
-1. [Video inpainting by jointly learning temporal structure and spatial details](https://arxiv.org/abs/1806.08482). Wang, C., Huang, H., Han, X., & Wang, J. Arxiv2018. 
+1. [Video inpainting by jointly learning temporal structure and spatial details](https://arxiv.org/abs/1806.08482). Wang, C., Huang, H., Han, X., & Wang, J. AAAI2019. 
 2. [Deep Flow-Guided Video Inpainting](https://arxiv.org/abs/1905.02884). Xu, R., Li, X., Zhou, B., & Loy, C. C. CVPR2019. [[code]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting) [[project]](https://nbei.github.io/video-inpainting.html)
-3. [Deep Video Inpainting](https://arxiv.org/abs/1905.01639). Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. CVPR2019. [[code]](https://github.com/mcahny/Deep-Video-Inpainting)
-4. [Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Blind_Video_Decaptioning_by_Temporal_Aggregation_and_Recurrence_CVPR_2019_paper.pdf). Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. CVPR2019. 
-5. [Align-and-Attend Network for Globally and Locally Coherent Video Inpainting](https://arxiv.org/abs/1905.13066). Woo, S., Kim, D., Park, K., Lee, J. Y., & Kweon, I. S. Arxiv2019. 
-
+3. [Deep Video Inpainting](https://arxiv.org/abs/1905.01639). Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. CVPR2019. [[code]](https://github.com/mcahny/Deep-Video-Inpainting) [[project]](https://sites.google.com/view/deepvinet/)
+4. [Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Blind_Video_Decaptioning_by_Temporal_Aggregation_and_Recurrence_CVPR_2019_paper.pdf). Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. CVPR2019. [[project]](https://sites.google.com/view/bvdnet/)
+5. [VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal](https://arxiv.org/abs/1904.06726)
+Ya-Liang Chang, Zhe Yu Liu, Winston Hsu. In CVPRW2019. 
+6. [Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN].(https://arxiv.org/abs/1904.10247) Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu. In ICCV2019. 
+7. [Learnable Gated Temporal Shift Module for Deep Video Inpainting](https://arxiv.org/abs/1907.01131) Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu. In BMVC2019. 
+8. [Align-and-Attend Network for Globally and Locally Coherent Video Inpainting](https://arxiv.org/abs/1905.13066). Woo, S., Kim, D., Park, K., Lee, J. Y., & Kweon, I. S. Arxiv2019. 
+9. [Frame-Recurrent Video Inpainting by Robust Optical Flow Inference](https://arxiv.org/abs/1905.02882) Yifan Ding, Chuan Wang, Haibin Huang, Jiaming Liu, Jue Wang, Liqiang Wang. In Arxiv 2019. 
 
 
 ## Challenge 
