@@ -57,7 +57,7 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 35. [Deep Fusion Network for Image Completion](https://arxiv.org/abs/1904.08060). Hong, X., Xiong, P., Ji, R., & Fan, H. Arxiv2019. [[code]](https://github.com/hughplay/DFNet)
 36. [PEPSI++: Fast and Lightweight Network for Image Inpainting](https://arxiv.org/pdf/1905.09010.pdf). Shin, Y. G., Sagong, M. C., Yeo, Y. J., Kim, S. W., & Ko, S. J. Arxiv2019. 
 37. [Generative Image Inpainting with Submanifold Alignment](https://arxiv.org/abs/1908.00211) Ang Li, Jianzhong Qi, Rui Zhang, Xingjun Ma, Kotagiri Ramamohanarao. In IJCAI2019. 
-
+38. [StructureFlow: Image Inpainting via Structure-aware Appearance Flow](https://arxiv.org/abs/1908.03852), Yurui Ren, Xiaoming Yu, Ruonan Zhang, Thomas H. Li, Shan Liu, Ge Li. In ICCV 2019. [[code]](https://github.com/RenYurui/StructureFlow)
 
 ## Video Inpainting 
 
@@ -82,10 +82,13 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 4. [Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Deep_Blind_Video_Decaptioning_by_Temporal_Aggregation_and_Recurrence_CVPR_2019_paper.pdf). Kim, D., Woo, S., Lee, J. Y., & Kweon, I. S. CVPR2019. [[project]](https://sites.google.com/view/bvdnet/)
 5. [VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal](https://arxiv.org/abs/1904.06726)
 Ya-Liang Chang, Zhe Yu Liu, Winston Hsu. In CVPRW2019. [[code]](https://github.com/amjltc295/VORNet-Spatio-temporally-Consistent-Video-Inpainting-for-Object-Removal)
-6. [Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN](https://arxiv.org/abs/1904.10247) Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu. In ICCV2019. [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
-7. [Learnable Gated Temporal Shift Module for Deep Video Inpainting](https://arxiv.org/abs/1907.01131) Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu. In BMVC2019. [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
-8. [Align-and-Attend Network for Globally and Locally Coherent Video Inpainting](https://arxiv.org/abs/1905.13066). Woo, S., Kim, D., Park, K., Lee, J. Y., & Kweon, I. S. Arxiv2019. 
-9. [Frame-Recurrent Video Inpainting by Robust Optical Flow Inference](https://arxiv.org/abs/1905.02882) Yifan Ding, Chuan Wang, Haibin Huang, Jiaming Liu, Jue Wang, Liqiang Wang. In Arxiv 2019. 
+6. [Learnable Gated Temporal Shift Module for Deep Video Inpainting](https://arxiv.org/abs/1907.01131) Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu. In BMVC2019. [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
+7. [Align-and-Attend Network for Globally and Locally Coherent Video Inpainting](https://arxiv.org/abs/1905.13066). Woo, S., Kim, D., Park, K., Lee, J. Y., & Kweon, I. S. Arxiv2019. 
+8. [Frame-Recurrent Video Inpainting by Robust Optical Flow Inference](https://arxiv.org/abs/1905.02882) Yifan Ding, Chuan Wang, Haibin Huang, Jiaming Liu, Jue Wang, Liqiang Wang. In Arxiv 2019. 
+9. [Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN](https://arxiv.org/abs/1904.10247) Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu. In ICCV2019. [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
+10. [Onion-Peel Networks for Deep Video Completion](https://arxiv.org/abs/1908.08718), Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim. In ICCV 2019. [[project]](https://sites.google.com/view/seoungwugoh)
+11. [Copy-and-Paste Networks for Deep Video Inpainting](https://arxiv.org/pdf/1908.11587.pdf), Sunho Lee, Seoung Wug Oh, DaeYeun Won, Seon Joo Kim. In ICCV 2019. [[code]](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)[[project]](https://sites.google.com/view/seoungwugoh)
+
 
 
 ## Challenge 
