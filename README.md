@@ -57,7 +57,9 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 35. [Deep Fusion Network for Image Completion](https://arxiv.org/abs/1904.08060). Hong, X., Xiong, P., Ji, R., & Fan, H. Arxiv2019. [[code]](https://github.com/hughplay/DFNet)
 36. [PEPSI++: Fast and Lightweight Network for Image Inpainting](https://arxiv.org/pdf/1905.09010.pdf). Shin, Y. G., Sagong, M. C., Yeo, Y. J., Kim, S. W., & Ko, S. J. Arxiv2019. 
 37. [Generative Image Inpainting with Submanifold Alignment](https://arxiv.org/abs/1908.00211) Ang Li, Jianzhong Qi, Rui Zhang, Xingjun Ma, Kotagiri Ramamohanarao. In IJCAI2019. 
-38. [StructureFlow: Image Inpainting via Structure-aware Appearance Flow](https://arxiv.org/abs/1908.03852), Yurui Ren, Xiaoming Yu, Ruonan Zhang, Thomas H. Li, Shan Liu, Ge Li. In ICCV 2019. [[code]](https://github.com/RenYurui/StructureFlow)
+38. [StructureFlow: Image Inpainting via Structure-aware Appearance Flow](https://arxiv.org/abs/1908.03852), Yurui Ren, Xiaoming Yu, Ruonan Zhang, Thomas H. Li, Shan Liu, Ge Li. In ICCV2019. [[code]](https://github.com/RenYurui/StructureFlow)
+39. [Image Inpainting with Learnable Bidirectional Attention Maps](https://arxiv.org/abs/1909.00968), Chaohao Xie, Shaohui Liu, Chao Li, Ming-Ming Cheng, Wangmeng Zuo, Xiao Liu, Shilei Wen, Errui Ding. In ICCV2019. [[code]](https://github.com/Vious/LBAM_inpainting)
+40. [Coherent Semantic Attention for Image Inpainting](https://arxiv.org/abs/1905.12384), Hongyu Liu, Bin Jiang, Yi Xiao, Chao Yang. In ICCV2019.
 
 ## Video Inpainting 
 
