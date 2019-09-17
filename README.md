@@ -50,17 +50,16 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 28. [Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image](https://arxiv.org/pdf/1903.04019.pdf). Han, X., Zhang, Z., Du, D., Yang, M., Yu, J., Pan, P., ... & Cui, S. CVPR2019. 
 29. [PEPSI: Fast Image Inpainting With Parallel Decoding Network. CVPR (pp. 11360-11368)](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sagong_PEPSI__Fast_Image_Inpainting_With_Parallel_Decoding_Network_CVPR_2019_paper.pdf). Sagong, M. C., Shin, Y. G., Kim, S. W., Park, S., & Ko, S. J. CVPR2019. 
 30. [Coordinate-Based Texture Inpainting for Pose-Guided Human Image Generation](https://arxiv.org/abs/1811.11459). Grigorev, A., Sevastopolsky, A., Vakhitov, A., & Lempitsky, V. CVPR2019.
-31. [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](http://arxiv.org/abs/1901.00212). Nazeri, K., Ng, E., Joseph, T., Qureshi, F., & Ebrahimi, M. Arxiv2019. [[code]](https://github.com/knazeri/edge-connect)
-32. [Deep Inception Generative Network for Cognitive Image Inpainting](https://arxiv.org/pdf/1812.01458.pdf). Xiao, Q., Li, G., & Chen, Q. Arxiv2019. 
-33. [Detecting Overfitting of Deep Generative Networks via Latent Recovery](https://arxiv.org/pdf/1901.03396.pdf). Webster, R., Rabin, J., Simon, L., & Jurie, F. Arxiv2019.
-34. [SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color](https://arxiv.org/abs/1902.06838). Jo, Y., & Park, J. (2019). Arxiv2019. [[code]](https://github.com/JoYoungjoo/SC-FEGAN)
-35. [Deep Fusion Network for Image Completion](https://arxiv.org/abs/1904.08060). Hong, X., Xiong, P., Ji, R., & Fan, H. Arxiv2019. [[code]](https://github.com/hughplay/DFNet)
-36. [PEPSI++: Fast and Lightweight Network for Image Inpainting](https://arxiv.org/pdf/1905.09010.pdf). Shin, Y. G., Sagong, M. C., Yeo, Y. J., Kim, S. W., & Ko, S. J. Arxiv2019. 
-37. [Generative Image Inpainting with Submanifold Alignment](https://arxiv.org/abs/1908.00211) Ang Li, Jianzhong Qi, Rui Zhang, Xingjun Ma, Kotagiri Ramamohanarao. In IJCAI2019. 
-38. [StructureFlow: Image Inpainting via Structure-aware Appearance Flow](https://arxiv.org/abs/1908.03852), Yurui Ren, Xiaoming Yu, Ruonan Zhang, Thomas H. Li, Shan Liu, Ge Li. In ICCV2019. [[code]](https://github.com/RenYurui/StructureFlow)
-39. [Image Inpainting with Learnable Bidirectional Attention Maps](https://arxiv.org/abs/1909.00968), Chaohao Xie, Shaohui Liu, Chao Li, Ming-Ming Cheng, Wangmeng Zuo, Xiao Liu, Shilei Wen, Errui Ding. In ICCV2019. [[code]](https://github.com/Vious/LBAM_inpainting)
-40. [Coherent Semantic Attention for Image Inpainting](https://arxiv.org/abs/1905.12384), Hongyu Liu, Bin Jiang, Yi Xiao, Chao Yang. In ICCV2019. [[code]](https://github.com/KumapowerLIU/CSA-inpainting)
-41. [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](https://arxiv.org/pdf/1901.00212.pdf), Nazeri, K., Ng, E., Joseph, T., Qureshi, F., & Ebrahimi, M. In ICCV2019. [[code]](https://github.com/knazeri/edge-connect)
+31. [Deep Inception Generative Network for Cognitive Image Inpainting](https://arxiv.org/pdf/1812.01458.pdf). Xiao, Q., Li, G., & Chen, Q. Arxiv2019. 
+32. [Detecting Overfitting of Deep Generative Networks via Latent Recovery](https://arxiv.org/pdf/1901.03396.pdf). Webster, R., Rabin, J., Simon, L., & Jurie, F. Arxiv2019.
+33. [SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color](https://arxiv.org/abs/1902.06838). Jo, Y., & Park, J. (2019). Arxiv2019. [[code]](https://github.com/JoYoungjoo/SC-FEGAN)
+34. [Deep Fusion Network for Image Completion](https://arxiv.org/abs/1904.08060). Hong, X., Xiong, P., Ji, R., & Fan, H. Arxiv2019. [[code]](https://github.com/hughplay/DFNet)
+35. [PEPSI++: Fast and Lightweight Network for Image Inpainting](https://arxiv.org/pdf/1905.09010.pdf). Shin, Y. G., Sagong, M. C., Yeo, Y. J., Kim, S. W., & Ko, S. J. Arxiv2019. 
+36. [Generative Image Inpainting with Submanifold Alignment](https://arxiv.org/abs/1908.00211) Ang Li, Jianzhong Qi, Rui Zhang, Xingjun Ma, Kotagiri Ramamohanarao. In IJCAI2019. 
+37. [StructureFlow: Image Inpainting via Structure-aware Appearance Flow](https://arxiv.org/abs/1908.03852), Yurui Ren, Xiaoming Yu, Ruonan Zhang, Thomas H. Li, Shan Liu, Ge Li. In ICCV2019. [[code]](https://github.com/RenYurui/StructureFlow)
+38. [Image Inpainting with Learnable Bidirectional Attention Maps](https://arxiv.org/abs/1909.00968), Chaohao Xie, Shaohui Liu, Chao Li, Ming-Ming Cheng, Wangmeng Zuo, Xiao Liu, Shilei Wen, Errui Ding. In ICCV2019. [[code]](https://github.com/Vious/LBAM_inpainting)
+39. [Coherent Semantic Attention for Image Inpainting](https://arxiv.org/abs/1905.12384), Hongyu Liu, Bin Jiang, Yi Xiao, Chao Yang. In ICCV2019. [[code]](https://github.com/KumapowerLIU/CSA-inpainting)
+40. [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](http://arxiv.org/abs/1901.00212). Nazeri, K., Ng, E., Joseph, T., Qureshi, F., & Ebrahimi, M. In ICCV2019. [[code]](https://github.com/knazeri/edge-connect)
 
 ## Video Inpainting 
 
