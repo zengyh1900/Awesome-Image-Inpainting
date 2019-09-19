@@ -90,6 +90,7 @@ Ya-Liang Chang, Zhe Yu Liu, Winston Hsu. In CVPRW2019. [[code]](https://github.c
 9. [Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN](https://arxiv.org/abs/1904.10247) Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu. In ICCV2019. [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
 10. [Onion-Peel Networks for Deep Video Completion](https://arxiv.org/abs/1908.08718), Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim. In ICCV 2019. [[project]](https://sites.google.com/view/seoungwugoh) [[code]](https://github.com/seoungwugoh/opn-demo)
 11. [Copy-and-Paste Networks for Deep Video Inpainting](https://arxiv.org/pdf/1908.11587.pdf), Sunho Lee, Seoung Wug Oh, DaeYeun Won, Seon Joo Kim. In ICCV 2019. [[code]](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)[[project]](https://sites.google.com/view/seoungwugoh)
+12. [An Internal Learning Approach to Video Inpainting](https://arxiv.org/pdf/1909.07957.pdf) Haotian Zhang, Long Mai, Ning Xu, Zhaowen Wang, John Collomosse, Hailin Jin. [[project]](https://cs.stanford.edu/~haotianz/publications/video_inpainting/)
 
 
 
