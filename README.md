@@ -13,7 +13,7 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 ## Image Inpainting 
 
 ### Classical methods (Non-learning based)
-1. [Image inpainting](http://www.dtic.upf.edu/~mbertalmio/bertalmi.pdf). Bertalmio, M., Sapiro, G., Caselles, V., & Ballester, C. ```In SIGGRAPH 2000```
+1. [Image inpainting](https://www.cse.unr.edu/~bebis/CS474/StudentPaperPresentations/imageinpainting.pdf). Bertalmio, M., Sapiro, G., Caselles, V., & Ballester, C. ```In SIGGRAPH 2000```
 2. [Simultaneous structure and texture image inpainting](http://www.math.ucla.edu/~lvese/PAPERS/01217265.pdf). Bertalmio, M., Vese, L., Sapiro, G., & Osher, S. ```In TIP 2003```
 3. [Region filling and object removal by exemplar-based image inpainting](http://www.irisa.fr/vista/Papers/2004_ip_criminisi.pdf). Criminisi, A., Pérez, P., & Toyama, K. ```In TIP 2004```
 4. [Image completion with structure propagation](http://webee.technion.ac.il/cgm/Computer-Graphics-Multimedia/Undergraduate-Projects/2009/ImageCompletion/ImageCompletion_SIGGRAPH05.pdf). Sun, J., Yuan, L., Jia, J., & Shum, H. Y. ```In TOG 2005```
