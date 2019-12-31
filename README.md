@@ -61,7 +61,7 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 38. [StructureFlow: Image Inpainting via Structure-aware Appearance Flow](https://arxiv.org/abs/1908.03852), Yurui Ren, Xiaoming Yu, Ruonan Zhang, Thomas H. Li, Shan Liu, Ge Li. ```In ICCV 2019``` [[code]](https://github.com/RenYurui/StructureFlow)
 39. [Image Inpainting with Learnable Bidirectional Attention Maps](https://arxiv.org/abs/1909.00968), Chaohao Xie, Shaohui Liu, Chao Li, Ming-Ming Cheng, Wangmeng Zuo, Xiao Liu, Shilei Wen, Errui Ding. ```In ICCV 2019``` [[code]](https://github.com/Vious/LBAM_inpainting)
 40. [Coherent Semantic Attention for Image Inpainting](https://arxiv.org/abs/1905.12384), Hongyu Liu, Bin Jiang, Yi Xiao, Chao Yang. ```In ICCV 2019``` [[code]](https://github.com/KumapowerLIU/CSA-inpainting)
-41. [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](http://arxiv.org/abs/1901.00212). Nazeri, K., Ng, E., Joseph, T., Qureshi, F., & Ebrahimi, M. ```In ICCV 2019``` [[code]](https://github.com/knazeri/edge-connect)
+41. [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](http://arxiv.org/abs/1901.00212). Nazeri, K., Ng, E., Joseph, T., Qureshi, F., & Ebrahimi, M. ```In ICCVW 2019``` [[code]](https://github.com/knazeri/edge-connect)
 42. [Free-form image inpainting with gated convolution](https://arxiv.org/abs/1806.03589). Yu, J., Lin, Z., Yang, J., Shen, X., Lu, X., & Huang, T. S. ```In ICCV 2019```  [[project]](http://jiahuiyu.com/deepfill2/)
 
 ## Video Inpainting 
