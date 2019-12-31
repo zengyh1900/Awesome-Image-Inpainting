@@ -18,6 +18,7 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 3. [Region filling and object removal by exemplar-based image inpainting](http://www.irisa.fr/vista/Papers/2004_ip_criminisi.pdf). Criminisi, A., Pérez, P., & Toyama, K. ```In TIP 2004```
 4. [Image completion with structure propagation](http://webee.technion.ac.il/cgm/Computer-Graphics-Multimedia/Undergraduate-Projects/2009/ImageCompletion/ImageCompletion_SIGGRAPH05.pdf). Sun, J., Yuan, L., Jia, J., & Shum, H. Y. ```In TOG 2005```
 5. [Image completion using planar structure guidance](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf). Huang, J. B., Kang, S. B., Ahuja, N., & Kopf, J. ```In TOG 2014``` [[code]](https://github.com/jbhuang0604/StructCompletion) [[project]](https://sites.google.com/site/jbhuang0604/publications/struct_completion)
+6. [PatchMatch: A randomized correspondence algorithm for structural image editing](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/patchmatch.pdf). Connelly Barnes, Eli Shechtman, Adam Finkelstein, Dan B Goldman. ```In TOG 2009```, [[project]](https://gfx.cs.princeton.edu/pubs/Barnes_2009_PAR/)
 
 ### Deep Architectures (Learning Based)
 1. [Shepard convolutional neural networks](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf). Ren, J. S., Xu, L., Yan, Q., & Sun, W. ```In NeurIPS 2015``` [[code]](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN)
