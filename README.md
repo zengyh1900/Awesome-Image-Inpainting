@@ -65,6 +65,11 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 42. [Free-form image inpainting with gated convolution](https://arxiv.org/abs/1806.03589). Yu, J., Lin, Z., Yang, J., Shen, X., Lu, X., & Huang, T. S. ```In ICCV 2019```  [[project]](http://jiahuiyu.com/deepfill2/)
 43. [Region Normalization for Image Inpainting](https://arxiv.org/pdf/1911.10375.pdf). Tao et al. ```In AAAI 2020``` [[code]](https://github.com/geekyutao/RN)
 44. [Learning to Incorporate Structure Knowledge for Image Inpainting](https://arxiv.org/abs/2002.04170), Yang et al. ```In AAAI 2020``` [[code]](https://github.com/YoungGod/sturcture-inpainting)
+45. [Prior Guided GAN Based Semantic Inpainting](http://openaccess.thecvf.com/content_CVPR_2020/html/Lahiri_Prior_Guided_GAN_Based_Semantic_Inpainting_CVPR_2020_paper.html), Lahiri1 et al. ```In CVPR 2020```
+46. [UCTGAN: Diverse Image Inpainting based on Unsupervised Cross-Space Translation](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.html), Zhao et al. ```In CVPR 2020```
+47. [Recurrent Feature Reasoning for Image Inpainting](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Recurrent_Feature_Reasoning_for_Image_Inpainting_CVPR_2020_paper.html), Li et al. ```In CVPR 2020``` [[code]](https://github.com/jingyuanli001/)
+48. [Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting](http://openaccess.thecvf.com/content_CVPR_2020/html/Yi_Contextual_Residual_Aggregation_for_Ultra_High-Resolution_Image_Inpainting_CVPR_2020_paper.html), Yi et al., ```In CVPR 2020``` [[code]](https://github.com/Ascend-Huawei/Ascend-Canada/tree/master/Models/Research_HiFIll_Model)
+49. [3D Photography using Context-aware Layered Depth Inpainting](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.pdf), Shih et al. ```In CVPR 2020``` [[demo]](https://shihmengli.github.io/3D-Photo-Inpainting) [[code]](https://github.com/vt-vl-lab/3d-photo-inpainting)
 
 ## Video Inpainting 
 
