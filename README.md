@@ -107,7 +107,7 @@ Ya-Liang Chang, Zhe Yu Liu, Winston Hsu. ```In CVPRW 2019``` [[code]](https://gi
 12. [An Internal Learning Approach to Video Inpainting](https://arxiv.org/pdf/1909.07957.pdf) Haotian Zhang, Long Mai, Ning Xu, Zhaowen Wang, John Collomosse, Hailin Jin. ```In ICCV 2019``` [[project]](https://cs.stanford.edu/~haotianz/publications/video_inpainting/)
 13. [Short-Term and Long-Term Context Aggregation Network for Video Inpainting](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf), Li et al. ```In ECCV2020``` 
 14. [Proposal-based Video Completion](http://www.cs.utexas.edu/~grauman/papers/eccv2020-hu.pdf), Hu et al. ```In ECCV2020``` 
-15. [DVI: Depth Guided Video Inpainting for Autonomous Driving](https://arxiv.org/pdf/2007.08854.pdf), Liao et al. ```In ECCV2020```
+15. [DVI: Depth Guided Video Inpainting for Autonomous Driving](https://arxiv.org/pdf/2007.08854.pdf), Liao et al. ```In ECCV2020``` [[project]](https://github.com/ApolloScapeAuto/dataset-api/tree/master/inpainting)
 16. [Learning Joint Spatial-Temporal Transformations for Video Inpainting](https://arxiv.org/abs/2007.10247), Zeng et al., ```In ECCV2020``` [[project]](https://github.com/researchmm/STTN)
 
 
@@ -115,5 +115,6 @@ Ya-Liang Chang, Zhe Yu Liu, Winston Hsu. ```In CVPRW 2019``` [[code]](https://gi
 
 ## Challenge 
 
-1. [2018 Looking at People ECCV Satellite Challenge](http://chalearnlap.cvc.uab.es/challenge/26/description/)
-2. [2019 ICME Grand Challenge Learning-Based Image Inpainting](https://icme19inpainting.github.io/)
+1. [Looking at People ECCV Satellite Challenge @ ECCV 2018](http://chalearnlap.cvc.uab.es/challenge/26/description/)
+2. [ICME Grand Challenge Learning-Based Image Inpainting @ ICME 2019](https://icme19inpainting.github.io/)
+3. [Image Inpainting Challenge - AIM Workshop and Challenges @ ECCV 2020](https://competitions.codalab.org/competitions/24675#learn_the_details-evaluation)
