@@ -109,6 +109,7 @@ Ya-Liang Chang, Zhe Yu Liu, Winston Hsu. ```In CVPRW 2019``` [[code]](https://gi
 14. [Proposal-based Video Completion](http://www.cs.utexas.edu/~grauman/papers/eccv2020-hu.pdf), Hu et al. ```In ECCV2020``` 
 15. [DVI: Depth Guided Video Inpainting for Autonomous Driving](https://arxiv.org/pdf/2007.08854.pdf), Liao et al. ```In ECCV2020``` [[project]](https://github.com/ApolloScapeAuto/dataset-api/tree/master/inpainting)
 16. [Learning Joint Spatial-Temporal Transformations for Video Inpainting](https://arxiv.org/abs/2007.10247), Zeng et al., ```In ECCV2020``` [[project]](https://github.com/researchmm/STTN)
+17. [Flow-edge Guided Video Completion](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570698.pdf), Gao et al. ```In ECCV2020``` [[project]](http://chengao.vision/FGVC/#)
 
 
 
