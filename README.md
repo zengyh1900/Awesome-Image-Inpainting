@@ -74,7 +74,8 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 51. [Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes](https://arxiv.org/abs/2003.06877), Liao et al. ```In ECCV 2020``` 
 52. [VCNet: A Robust Approach to Blind Image Inpainting](https://arxiv.org/abs/2003.06816), Wang et al. ```In ECCV2020``` [[code]](https://github.com/shepnerd/blindinpainting_vcnet)
 53. [High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling](https://arxiv.org/abs/2005.11742), Zeng et al. ```In ECCV2020``` [[project]](https://zengxianyu.github.io/iic/)
-54. [Hyperrealistic Image Inpainting with Hypergraphs](https://openaccess.thecvf.com/content/WACV2021/papers/Wadhwa_Hyperrealistic_Image_Inpainting_With_Hypergraphs_WACV_2021_paper.pdf), Wadhwa et al., ```In WACV2021``` [[code]](https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting)
+54. [Image Inpainting with Onion Convolution](https://openaccess.thecvf.com/content/ACCV2020/papers/Navasardyan_Image_Inpainting_with_Onion_Convolutions_ACCV_2020_paper.pdf), Shant et al., ```In ACCV2020```
+55. [Hyperrealistic Image Inpainting with Hypergraphs](https://openaccess.thecvf.com/content/WACV2021/papers/Wadhwa_Hyperrealistic_Image_Inpainting_With_Hypergraphs_WACV_2021_paper.pdf), Wadhwa et al., ```In WACV2021``` [[code]](https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting)
 
 ## Video Inpainting 
 
