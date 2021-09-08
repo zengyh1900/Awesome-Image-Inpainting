@@ -132,3 +132,4 @@ Ya-Liang Chang, Zhe Yu Liu, Winston Hsu. ```In CVPRW 2019``` [[code]](https://gi
 1. [Looking at People ECCV Satellite Challenge @ ECCV 2018](http://chalearnlap.cvc.uab.es/challenge/26/description/)
 2. [ICME Grand Challenge Learning-Based Image Inpainting @ ICME 2019](https://icme19inpainting.github.io/)
 3. [Image Inpainting Challenge - AIM Workshop and Challenges @ ECCV 2020](https://competitions.codalab.org/competitions/24675#learn_the_details-evaluation)
+4. [Video Inpainting Challenge - MangoTV International Video Inpainting Challenge @ 2021](https://challenge.ai.mgtv.com/contest/detail/8)
