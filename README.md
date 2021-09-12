@@ -83,8 +83,8 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 58. [PD-GAN: Probabilistic Diverse GAN for Image Inpainting](https://arxiv.org/abs/2105.02201), Liu et al., ```In CVPR 2021``` [[code]](https://github.com/KumapowerLIU/PD-GAN)
 59. [Image Inpainting Guided by Coherence Priors of Semantics and Textures](https://arxiv.org/abs/2012.08054), ```In CVPR 2021``` 
 60. [TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations](https://arxiv.org/abs/2103.15982), Zhou et al., ```In CVPR 2021``` [[code]](https://github.com/yzhouas/TransFill-Reference-Inpainting) [[project]](https://yzhouas.github.io/projects/TransFill/index.html)
-61. FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains. ```In CVPR 2021````
-
+61. [FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains](https://openaccess.thecvf.com/content/CVPR2021/html/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.html), ```In CVPR 2021```
+62. [Large Scale Image Completion via Co-Modulated Generative Adversarial Networks](https://openreview.net/forum?id=sSjqmfsk95O), ```In ICLR 2021``` [[code]](https://github.com/zsyzzsoft/co-mod-gan)
 
 
 ## Video Inpainting 
