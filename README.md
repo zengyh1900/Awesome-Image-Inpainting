@@ -83,8 +83,8 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 58. [PD-GAN: Probabilistic Diverse GAN for Image Inpainting](https://arxiv.org/abs/2105.02201), Liu et al., ```In CVPR 2021``` [[code]](https://github.com/KumapowerLIU/PD-GAN)
 59. [Image Inpainting Guided by Coherence Priors of Semantics and Textures](https://arxiv.org/abs/2012.08054), ```In CVPR 2021``` 
 60. [TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations](https://arxiv.org/abs/2103.15982), Zhou et al., ```In CVPR 2021``` [[code]](https://github.com/yzhouas/TransFill-Reference-Inpainting) [[project]](https://yzhouas.github.io/projects/TransFill/index.html)
-61. [FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains](https://openaccess.thecvf.com/content/CVPR2021/html/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.html), ```In CVPR 2021```
-62. [Large Scale Image Completion via Co-Modulated Generative Adversarial Networks](https://openreview.net/forum?id=sSjqmfsk95O), ```In ICLR 2021``` [[code]](https://github.com/zsyzzsoft/co-mod-gan)
+61. [FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains](https://openaccess.thecvf.com/content/CVPR2021/html/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.html), Li et al., ```In CVPR 2021```
+62. [Large Scale Image Completion via Co-Modulated Generative Adversarial Networks](https://openreview.net/forum?id=sSjqmfsk95O), Zhao et al., ```In ICLR 2021``` [[code]](https://github.com/zsyzzsoft/co-mod-gan)
 
 
 ## Video Inpainting 
@@ -113,10 +113,10 @@ Ya-Liang Chang, Zhe Yu Liu, Winston Hsu. ```In CVPRW 2019``` [[code]](https://gi
 6. [Learnable Gated Temporal Shift Module for Deep Video Inpainting](https://arxiv.org/abs/1907.01131) Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu. ```In BMVC 2019``` [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
 7. [Align-and-Attend Network for Globally and Locally Coherent Video Inpainting](https://arxiv.org/abs/1905.13066). Woo, S., Kim, D., Park, K., Lee, J. Y., & Kweon, I. S. ```In Arxiv 2019```
 8. [Frame-Recurrent Video Inpainting by Robust Optical Flow Inference](https://arxiv.org/abs/1905.02882) Yifan Ding, Chuan Wang, Haibin Huang, Jiaming Liu, Jue Wang, Liqiang Wang. ```In Arxiv 2019``` 
-9. [Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN](https://arxiv.org/abs/1904.10247) Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu. ```In ICCV 2019``` [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
-10. [Onion-Peel Networks for Deep Video Completion](https://arxiv.org/abs/1908.08718), Seoung Wug Oh, Sungho Lee, Joon-Young Lee, Seon Joo Kim. ```In ICCV 2019``` [[project]](https://sites.google.com/view/seoungwugoh) [[code]](https://github.com/seoungwugoh/opn-demo)
-11. [Copy-and-Paste Networks for Deep Video Inpainting](https://arxiv.org/pdf/1908.11587.pdf), Sunho Lee, Seoung Wug Oh, DaeYeun Won, Seon Joo Kim. ```In ICCV 2019``` [[code]](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)[[project]](https://sites.google.com/view/seoungwugoh)
-12. [An Internal Learning Approach to Video Inpainting](https://arxiv.org/pdf/1909.07957.pdf) Haotian Zhang, Long Mai, Ning Xu, Zhaowen Wang, John Collomosse, Hailin Jin. ```In ICCV 2019``` [[project]](https://cs.stanford.edu/~haotianz/publications/video_inpainting/)
+9. [Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN](https://arxiv.org/abs/1904.10247) Chang et al., ```In ICCV 2019``` [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting)
+10. [Onion-Peel Networks for Deep Video Completion](https://arxiv.org/abs/1908.08718), Oh et al., ```In ICCV 2019``` [[project]](https://sites.google.com/view/seoungwugoh) [[code]](https://github.com/seoungwugoh/opn-demo)
+11. [Copy-and-Paste Networks for Deep Video Inpainting](https://arxiv.org/pdf/1908.11587.pdf), Lee et al., ```In ICCV 2019``` [[code]](https://github.com/shleecs/Copy-and-Paste-Networks-for-Deep-Video-Inpainting)[[project]](https://sites.google.com/view/seoungwugoh)
+12. [An Internal Learning Approach to Video Inpainting](https://arxiv.org/pdf/1909.07957.pdf), Zhang et al., ```In ICCV 2019``` [[project]](https://cs.stanford.edu/~haotianz/publications/video_inpainting/)
 13. [Short-Term and Long-Term Context Aggregation Network for Video Inpainting](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf), Li et al. ```In ECCV 2020``` 
 14. [Proposal-based Video Completion](http://www.cs.utexas.edu/~grauman/papers/eccv2020-hu.pdf), Hu et al. ```In ECCV 2020``` 
 15. [DVI: Depth Guided Video Inpainting for Autonomous Driving](https://arxiv.org/pdf/2007.08854.pdf), Liao et al. ```In ECCV 2020``` [[project]](https://github.com/ApolloScapeAuto/dataset-api/tree/master/inpainting)
