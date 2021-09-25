@@ -123,6 +123,7 @@ Ya-Liang Chang, Zhe Yu Liu, Winston Hsu. ```In CVPRW 2019``` [[code]](https://gi
 16. [Learning Joint Spatial-Temporal Transformations for Video Inpainting](https://arxiv.org/abs/2007.10247), Zeng et al., ```In ECCV 2020``` [[project]](https://github.com/researchmm/STTN)
 17. [Flow-edge Guided Video Completion](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570698.pdf), Gao et al. ```In ECCV 2020``` [[project]](http://chengao.vision/FGVC/#)
 18. [Progressive Temporal Feature Alignment Network for Video Inpainting](https://arxiv.org/abs/2104.03507), Zou et al., ```In CVPR 2021``` [[code]](https://github.com/MaureenZOU/TSAM)
+19. [Internal Video Inpainting by Implicit Long-range Propagation](https://arxiv.org/abs/2108.01912), ouyang et al., ```In ICCV 2021''' [[project]](https://tengfei-wang.github.io/Implicit-Internal-Video-Inpainting/) [[code]](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting) 
 
 
 
