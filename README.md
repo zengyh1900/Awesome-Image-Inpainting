@@ -85,6 +85,7 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 60. [TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations](https://arxiv.org/abs/2103.15982), Zhou et al., ```In CVPR 2021``` [[code]](https://github.com/yzhouas/TransFill-Reference-Inpainting) [[project]](https://yzhouas.github.io/projects/TransFill/index.html)
 61. [FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains](https://openaccess.thecvf.com/content/CVPR2021/html/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.html), Li et al., ```In CVPR 2021```
 62. [Large Scale Image Completion via Co-Modulated Generative Adversarial Networks](https://openreview.net/forum?id=sSjqmfsk95O), Zhao et al., ```In ICLR 2021``` [[code]](https://github.com/zsyzzsoft/co-mod-gan)
+63. [Image Inpainting via Conditional Texture and Structure Dual Generation](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Image_Inpainting_via_Conditional_Texture_and_Structure_Dual_Generation_ICCV_2021_paper.pdf), Guo et al., ```In ICCV 2021``` [[code]](https://github.com/Xiefan-Guo/CTSDG)
 
 
 ## Video Inpainting 
@@ -123,7 +124,8 @@ Ya-Liang Chang, Zhe Yu Liu, Winston Hsu. ```In CVPRW 2019``` [[code]](https://gi
 16. [Learning Joint Spatial-Temporal Transformations for Video Inpainting](https://arxiv.org/abs/2007.10247), Zeng et al., ```In ECCV 2020``` [[project]](https://github.com/researchmm/STTN)
 17. [Flow-edge Guided Video Completion](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570698.pdf), Gao et al. ```In ECCV 2020``` [[project]](http://chengao.vision/FGVC/#)
 18. [Progressive Temporal Feature Alignment Network for Video Inpainting](https://arxiv.org/abs/2104.03507), Zou et al., ```In CVPR 2021``` [[code]](https://github.com/MaureenZOU/TSAM)
-19. [Internal Video Inpainting by Implicit Long-range Propagation](https://arxiv.org/abs/2108.01912), ouyang et al., ```In ICCV 2021''' [[project]](https://tengfei-wang.github.io/Implicit-Internal-Video-Inpainting/) [[code]](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting) 
+19. [Internal Video Inpainting by Implicit Long-range Propagation](https://arxiv.org/abs/2108.01912), ouyang et al., ```In ICCV 2021``` [[project]](https://tengfei-wang.github.io/Implicit-Internal-Video-Inpainting/) [[code]](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting) 
+20. [FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting](https://arxiv.org/abs/2109.02974), Liu et al., ```In ICCV 2021``` [[code]](https://github.com/ruiliu-ai/FuseFormer)
 
 
 
