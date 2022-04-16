@@ -97,9 +97,9 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 71. [Learning High-Fidelity Face Texture Completion Without Complete Face Texture](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Learning_High-Fidelity_Face_Texture_Completion_Without_Complete_Face_Texture_ICCV_2021_paper.html), Kim et al., ```In ICCV 2021```
 72. Dual-path Image Inpainting with Auxiliary GAN Inversion, Wang et al., ```In CVPR 2022```
 73. [MAT: Mask-Aware Transformer for Large Hole Image Inpainting](https://arxiv.org/abs/2203.15270), Li et al., ```In CVPR 2022``` [[code]](https://github.com/fenglinglwb/MAT)
-74. [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2201.09865), Lugmayr et al., ```In CVPR 2022''' [[code]](https://github.com/andreas128/RePaint)
-75. [MISF: Multi-level Interactive Siamese Filtering for High-Fidelity Image Inpainting](https://arxiv.org/abs/2203.06304), Li et al., ```In CVPR 2022''' [[code]](https://github.com/tsingqguo/misf)
-76. [Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding](https://arxiv.org/abs/2203.00867), Dong et al., ```In CVPR 2022''' [[code]](https://github.com/DQiaole/ZITS_inpainting)
+74. [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2201.09865), Lugmayr et al., ```In CVPR 2022``` [[code]](https://github.com/andreas128/RePaint)
+75. [MISF: Multi-level Interactive Siamese Filtering for High-Fidelity Image Inpainting](https://arxiv.org/abs/2203.06304), Li et al., ```In CVPR 2022``` [[code]](https://github.com/tsingqguo/misf)
+76. [Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding](https://arxiv.org/abs/2203.00867), Dong et al., ```In CVPR 2022``` [[code]](https://github.com/DQiaole/ZITS_inpainting)
 
 
 
@@ -141,13 +141,13 @@ Ya-Liang Chang, Zhe Yu Liu, Winston Hsu. ```In CVPRW 2019``` [[code]](https://gi
 18. [Progressive Temporal Feature Alignment Network for Video Inpainting](https://arxiv.org/abs/2104.03507), Zou et al., ```In CVPR 2021``` [[code]](https://github.com/MaureenZOU/TSAM)
 19. [Internal Video Inpainting by Implicit Long-range Propagation](https://arxiv.org/abs/2108.01912), ouyang et al., ```In ICCV 2021``` [[project]](https://tengfei-wang.github.io/Implicit-Internal-Video-Inpainting/) [[code]](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting) 
 20. [FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting](https://arxiv.org/abs/2109.02974), Liu et al., ```In ICCV 2021``` [[code]](https://github.com/ruiliu-ai/FuseFormer)
-21. [Flow-Guided Video Inpainting With Scene Templates](https://openaccess.thecvf.com/content/ICCV2021/papers/Lao_Flow-Guided_Video_Inpainting_With_Scene_Templates_ICCV_2021_paper.pdf), Lao et al., ```In ICCV 2021''' [[code]](https://github.com/donglao/videoinpainting)
-22. [Frequency-Aware Spatiotemporal Transformers for Video Inpainting Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_Frequency-Aware_Spatiotemporal_Transformers_for_Video_Inpainting_Detection_ICCV_2021_paper.html), Yu et al., ```In ICCV 2021''' 
-23. [Occlusion-Aware Video Object Inpainting](https://openaccess.thecvf.com/content/ICCV2021/html/Ke_Occlusion-Aware_Video_Object_Inpainting_ICCV_2021_paper.html), ke et al.,  ```In ICCV 2021''' [[project]](http://www.kelei.site/voin/) 
-24. [Towards An End-to-End Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2204.02663), Li et al.,  ```In CVPR 2022''' [[code]](https://github.com/MCG-NKU/E2FGVI) 
-25.  Inertia-Guided Flow Completion and Style Fusion for Video Inpainting, Zhang et al., ```In CVPR 2022'''
-26.  DLFormer: Discrete Latent Transformer for Video Inpainting, Ren et al., ```In CVPR 2022'''
-27.  [The DEVIL is in the Details: A Diagnostic Evaluation Benchmark for Video Inpainting](https://arxiv.org/abs/2105.05332), Szeto et al., ```In CVPR 2022''' [[code]](https://github.com/MichiganCOG/devil)
+21. [Flow-Guided Video Inpainting With Scene Templates](https://openaccess.thecvf.com/content/ICCV2021/papers/Lao_Flow-Guided_Video_Inpainting_With_Scene_Templates_ICCV_2021_paper.pdf), Lao et al., ```In ICCV 2021``` [[code]](https://github.com/donglao/videoinpainting)
+22. [Frequency-Aware Spatiotemporal Transformers for Video Inpainting Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Yu_Frequency-Aware_Spatiotemporal_Transformers_for_Video_Inpainting_Detection_ICCV_2021_paper.html), Yu et al., ```In ICCV 2021```
+23. [Occlusion-Aware Video Object Inpainting](https://openaccess.thecvf.com/content/ICCV2021/html/Ke_Occlusion-Aware_Video_Object_Inpainting_ICCV_2021_paper.html), ke et al.,  ```In ICCV 2021``` [[project]](http://www.kelei.site/voin/) 
+24. [Towards An End-to-End Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2204.02663), Li et al.,  ```In CVPR 2022``` [[code]](https://github.com/MCG-NKU/E2FGVI) 
+25.  Inertia-Guided Flow Completion and Style Fusion for Video Inpainting, Zhang et al., ```In CVPR 2022```
+26.  DLFormer: Discrete Latent Transformer for Video Inpainting, Ren et al., ```In CVPR 2022```
+27.  [The DEVIL is in the Details: A Diagnostic Evaluation Benchmark for Video Inpainting](https://arxiv.org/abs/2105.05332), Szeto et al., ```In CVPR 2022``` [[code]](https://github.com/MichiganCOG/devil)
 
 
 
