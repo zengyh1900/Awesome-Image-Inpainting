@@ -100,6 +100,7 @@ A curated list of inpainting papers and resources, inspired by [awesome-computer
 74. [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2201.09865), Lugmayr et al., ```In CVPR 2022``` [[code]](https://github.com/andreas128/RePaint)
 75. [MISF: Multi-level Interactive Siamese Filtering for High-Fidelity Image Inpainting](https://arxiv.org/abs/2203.06304), Li et al., ```In CVPR 2022``` [[code]](https://github.com/tsingqguo/misf)
 76. [Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding](https://arxiv.org/abs/2203.00867), Dong et al., ```In CVPR 2022``` [[code]](https://github.com/DQiaole/ZITS_inpainting)
+77. [Reduce Information Loss in Transformers for Pluralistic Image Inpainting](https://arxiv.org/abs/2205.05076), Liu et al., In CVPR 2022 [[code]](https://github.com/liuqk3/PUT)
 
 
 
