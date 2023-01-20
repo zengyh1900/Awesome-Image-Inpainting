@@ -1,4 +1,4 @@
-Year,Conf,Type,Ttitle,PDF,Code,Project
+Year,Conf,Type,Ttitle,URL,Code,Project
 2022,CVPR,video,Towards An End-to-End Framework for Flow-Guided Video Inpainting,https://arxiv.org/abs/2204.02663,https://github.com/MCG-NKU/E2FGVI,
 2022,CVPR,video,Inertia-Guided Flow Completion and Style Fusion for Video Inpainting,https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper,https://github.com/hitachinsk/ISVI,https://hitachinsk.github.io/publication/2022-06-01-Inertia-Guided-Flow-Completion-and-Style-Fusion-for-Video-Inpainting
 2022,CVPR,video,DLFormer: Discrete Latent Transformer for Video Inpainting,https://openaccess.thecvf.com/content/CVPR2022/html/Ren_DLFormer_Discrete_Latent_Transformer_for_Video_Inpainting_CVPR_2022_paper,,
@@ -10,6 +10,7 @@ Year,Conf,Type,Ttitle,PDF,Code,Project
 2022,CVPR,image,Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding,https://arxiv.org/abs/2203.00867,https://github.com/DQiaole/ZITS_inpainting,
 2022,CVPR,image,Reduce Information Loss in Transformers for Pluralistic Image Inpainting,https://arxiv.org/abs/2205.05076,https://github.com/liuqk3/PUT,
 2021,WACV,image,Hyperrealistic Image Inpainting with Hypergraphs,https://openaccess.thecvf.com/content/WACV2021/papers/Wadhwa_Hyperrealistic_Image_Inpainting_With_Hypergraphs_WACV_2021_paper.pdf,https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting,
+2021,MangoTV,challenge,Video Inpainting Challenge - MangoTV International Video Inpainting Challenge,https://challenge.ai.mgtv.com/contest/detail/8,,
 2021,ICLR,image,Large Scale Image Completion via Co-Modulated Generative Adversarial Networks,https://openreview.net/forum?id=sSjqmfsk95O,https://github.com/zsyzzsoft/co-mod-gan,
 2021,ICCV,video,Internal Video Inpainting by Implicit Long-range Propagation,https://arxiv.org/abs/2108.01912,https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting,https://tengfei-wang.github.io/Implicit-Internal-Video-Inpainting/
 2021,ICCV,video,FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting,https://arxiv.org/abs/2109.02974,https://github.com/ruiliu-ai/FuseFormer,
@@ -31,7 +32,6 @@ Year,Conf,Type,Ttitle,PDF,Code,Project
 2021,CVPR,image,PD-GAN: Probabilistic Diverse GAN for Image Inpainting,https://arxiv.org/abs/2105.02201,https://github.com/KumapowerLIU/PD-GAN,
 2021,CVPR,image,Image Inpainting Guided by Coherence Priors of Semantics and Textures,https://arxiv.org/abs/2012.08054,,
 2021,CVPR,image,TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations,https://arxiv.org/abs/2103.15982,https://github.com/yzhouas/TransFill-Reference-Inpainting,https://yzhouas.github.io/projects/TransFill/index.html
-2021,MangoTV,challenge,Video Inpainting Challenge - MangoTV International Video Inpainting Challenge,https://challenge.ai.mgtv.com/contest/detail/8,,
 2021,CVPR,image,FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains,https://openaccess.thecvf.com/content/CVPR2021/html/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.html,,
 2020,IJCV,image,Deep Image Prior,https://arxiv.org/abs/1711.10925v4,https://github.com/DmitryUlyanov/deep-image-prior,https://dmitryulyanov.github.io/deep_image_prior
 2020,ECCV,video,Short-Term and Long-Term Context Aggregation Network for Video Inpainting,https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490698.pdf,,
@@ -43,6 +43,7 @@ Year,Conf,Type,Ttitle,PDF,Code,Project
 2020,ECCV,image,Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes,https://arxiv.org/abs/2003.06877,,
 2020,ECCV,image,VCNet: A Robust Approach to Blind Image Inpainting,https://arxiv.org/abs/2003.06816,https://github.com/shepnerd/blindinpainting_vcnet,
 2020,ECCV,image,High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling,https://arxiv.org/abs/2005.11742,,https://zengxianyu.github.io/iic/
+2020,ECCV,challenge,Image Inpainting Challenge - AIM Workshop and Challenges,https://competitions.codalab.org/competitions/24675#learn_the_details-evaluation,,
 2020,CVPR,image,Prior Guided GAN Based Semantic Inpainting,http://openaccess.thecvf.com/content_CVPR_2020/html/Lahiri_Prior_Guided_GAN_Based_Semantic_Inpainting_CVPR_2020_paper.html,,
 2020,CVPR,image,UCTGAN: Diverse Image Inpainting based on Unsupervised Cross-Space Translation,http://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.html,,
 2020,CVPR,image,Recurrent Feature Reasoning for Image Inpainting,http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Recurrent_Feature_Reasoning_for_Image_Inpainting_CVPR_2020_paper.html,https://github.com/jingyuanli001/,
@@ -50,11 +51,11 @@ Year,Conf,Type,Ttitle,PDF,Code,Project
 2020,CVPR,image,3D Photography using Context-aware Layered Depth Inpainting,http://openaccess.thecvf.com/content_CVPR_2020/html/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper,https://github.com/vt-vl-lab/3d-photo-inpainting,
 2020,ACCV,image,Image Inpainting with Onion Convolution,https://openaccess.thecvf.com/content/ACCV2020/papers/Navasardyan_Image_Inpainting_with_Onion_Convolutions_ACCV_2020_paper.pdf,,
 2020,AAAI,image,Region Normalization for Image Inpainting,https://arxiv.org/abs/1911.10375,https://github.com/geekyutao/RN,
-2020,ECCV,challenge,Image Inpainting Challenge - AIM Workshop and Challenges,https://competitions.codalab.org/competitions/24675#learn_the_details-evaluation,,
 2020,AAAI,image,Learning to Incorporate Structure Knowledge for Image Inpainting,https://arxiv.org/abs/2002.04170,https://github.com/YoungGod/sturcture-inpainting,
 2019,IJCAI,image,Generative Image Inpainting with Submanifold Alignment,https://arxiv.org/abs/1908.00211,,
 2019,IJCAI,image,MUSICAL: Multi-Scale Image Contextual Attention Learning for Inpainting,https://www.ijcai.org/proceedings/2019/0520.pdf,,
 2019,IJCAI,image,Coarse-to-Fine Image Inpainting via Region-wise Convolutions and Non-Local Correlation,https://www.ijcai.org/proceedings/2019/0433.pdf,,
+2019,ICME,challenge,ICME Grand Challenge Learning-Based Image Inpainting,https://icme19inpainting.github.io/,,
 2019,ICCVW,image,EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning,http://arxiv.org/abs/1901.00212,https://github.com/knazeri/edge-connect,
 2019,ICCV,video,Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN,https://arxiv.org/abs/1904.10247,https://github.com/amjltc295/Free-Form-Video-Inpainting,
 2019,ICCV,video,Onion-Peel Networks for Deep Video Completion,https://arxiv.org/abs/1908.08718,https://github.com/seoungwugoh/opn-demo,https://sites.google.com/view/seoungwugoh
@@ -82,17 +83,17 @@ Year,Conf,Type,Ttitle,PDF,Code,Project
 2019,Arxiv,image,SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color,https://arxiv.org/abs/1902.06838,https://github.com/JoYoungjoo/SC-FEGAN,
 2019,Arxiv,image,Deep Fusion Network for Image Completion,https://arxiv.org/abs/1904.08060,https://github.com/hughplay/DFNet,
 2019,Arxiv,image,PEPSI++: Fast and Lightweight Network for Image Inpainting,https://arxiv.org/abs/1905.09010,,
-2019,ICME,challenge,ICME Grand Challenge Learning-Based Image Inpainting,https://icme19inpainting.github.io/,,
 2019,AAAI,video,Video inpainting by jointly learning temporal structure and spatial details,https://arxiv.org/abs/1806.08482,,
 2018,TOG,image,Faceshop: Deep sketch-based face image editing,https://arxiv.org/abs/1804.08972,,
 2018,NeurIPS,image,Image Inpainting via Generative Multi-column Convolutional Neural Networks,https://arxiv.org/abs/1810.08771,https://github.com/shepnerd/inpainting_gmcnn,
 2018,MM,image,Structural inpainting,https://arxiv.org/abs/1803.10348,,
 2018,MM,image,Semantic Image Inpainting with Progressive Generative Networks,https://dl.acm.org/citation.cfm?id=3240625,https://github.com/crashmoon/Progressive-Generative-Networks,
 2018,ICASPP,image,Edge-Aware Context Encoder for Image Inpainting,http://mirlab.org/conference_papers/International_Conference/ICASSP%202018/pdfs/0003156.pdf,,
+2018,ECCVW,challenge,Looking at People ECCV Satellite Challenge,http://chalearnlap.cvc.uab.es/challenge/26/description/,,
 2018,ECCV,image,Image inpainting for irregular holes using partial convolutions,https://arxiv.org/abs/1804.07723,,http://masc.cs.gmu.edu/wiki/partialconv
 2018,ECCV,image,"Contextual-based image inpainting: Infer, match, and translate",https://arxiv.org/abs/1711.08590,,
 2018,ECCV,image,Shift-net: Image inpainting via deep feature rearrangement,https://arxiv.org/abs/1801.09392v2,https://github.com/Zhaoyi-Yan/Shift-Net,
-2018,CVPR,image,Generative image inpainting with contextual attention,https://arxiv.org/abs/1801.07892,https://github.com/JiahuiYu/generative_inpainting) [[project]](http://jiahuiyu.com/deepfill/,http://jiahuiyu.com/deepfill/
+2018,CVPR,image,Generative image inpainting with contextual attention,https://arxiv.org/abs/1801.07892,https://github.com/JiahuiYu/generative_inpainting,http://jiahuiyu.com/deepfill/
 2018,CVPR,image,Natural and effective obfuscation by head inpainting,http://openaccess.thecvf.com/content_cvpr_2018/html/Sun_Natural_and_Effective_CVPR_2018_paper,,
 2018,CVPR,image,Eye in-painting with exemplar generative adversarial networks,http://openaccess.thecvf.com/content_cvpr_2018/html/Dolhansky_Eye_In-Painting_With_CVPR_2018_paper,https://github.com/bdol/exemplar_gans,https://bdol.github.io/exemplar_gans/
 2018,CVPR,image,Uv-gan: Adversarial facial uv map completion for pose-invariant face recognition,http://openaccess.thecvf.com/content_cvpr_2018/html/Deng_UV-GAN_Adversarial_Facial_CVPR_2018_paper,,
@@ -100,7 +101,6 @@ Year,Conf,Type,Ttitle,PDF,Code,Project
 2018,BMVC,image,SPG-Net: Segmentation prediction and guidance network for image inpainting,https://arxiv.org/abs/1805.03356,,
 2018,Arxiv,image,High resolution face completion with multiple controllable attributes via fully end-to-end progressive generative adversarial networks,https://arxiv.org/abs/1812.01458,,
 2018,Arxiv,image,On Hallucinating Context and Background Pixels from a Face Mask using Multi-scale GANs,https://arxiv.org/abs/1811.07104,,
-2018,ECCVW,challenge,Looking at People ECCV Satellite Challenge,http://chalearnlap.cvc.uab.es/challenge/26/description/,,
 2018,ACCV,image,Face Completion with Semantic Knowledge and Collaborative Adversarial Learning,https://arxiv.org/abs/1812.03252,,
 2017,TOG,image,Globally and locally consistent image completion,http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf,https://github.com/satoshiiizuka/siggraph2017_inpainting,http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/
 2017,CVPR,image,High-resolution image inpainting using multi-scale neural patch synthesis,https://arxiv.org/abs/1611.09969,https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting,
@@ -110,7 +110,7 @@ Year,Conf,Type,Ttitle,PDF,Code,Project
 2016,CVPR,image,Context encoders: Feature learning by inpainting,https://arxiv.org/abs/1604.07379,https://github.com/pathak22/context-encoder,
 2015,TIP,video,Video inpainting with short-term windows: application to object removal and error concealment,https://hal.inria.fr/hal-01204677/file/Ebdelli_videoInpainting_TIP2015.pdf,,
 2015,NeurIPS,image,Shepard convolutional neural networks,https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf,https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN,
-2014,TOG,image,Image completion using planar structure guidance,https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf,https://github.com/jbhuang0604/StructCompletion) [[project]](https://sites.google.com/site/jbhuang0604/publications/struct_completion,https://sites.google.com/site/jbhuang0604/publications/struct_completion
+2014,TOG,image,Image completion using planar structure guidance,https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf,https://github.com/jbhuang0604/StructCompletion,https://sites.google.com/site/jbhuang0604/publications/struct_completion
 2014,SIAM Journal on Imaging Sciences,video,Video inpainting of complex scenes,https://perso.telecom-paristech.fr/gousseau/video_inpainting/Video_inpainting_complex_scenes.pdf,,https://perso.telecom-paristech.fr/gousseau/video_inpainting/
 2012,ECCV,video,Background inpainting for videos with dynamic objects and a free-moving camera,https://gvv.mpi-inf.mpg.de/projects/vidbginp/granados12b_vidbginp.pdf,,https://gvv.mpi-inf.mpg.de/projects/vidbginp/index.html
 2012,Computer Graphics Forum,video,How not to be seen-object removal from videos of crowded scenes,https://gvv.mpi-inf.mpg.de/projects/vidinp/granados12_vidinp.pdf,,https://gvv.mpi-inf.mpg.de/projects/vidinp/
