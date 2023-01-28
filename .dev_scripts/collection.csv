@@ -1,4 +1,14 @@
 Year,Conf,Type,Ttitle,URL,Code,Project
+2022,ECCV,video,Flow-Guided Transformer for Video Inpainting,https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1456_ECCV_2022_paper.php,https://github.com/hitachinsk/FGT,https://hitachinsk.github.io/publication/2022-10-01-Flow-Guided-Transformer-for-Video-Inpainting
+2022,ECCV,video,Error Compensation Framework for Flow-Guided Video Inpainting,https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2166_ECCV_2022_paper.php,https://github.com/JaeYeonKang/ECFVI,
+2022,ECCV,image,Diverse Image Inpainting with Normalizing Flow,https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2814_ECCV_2022_paper.php,,
+2022,ECCV,image,Learning Prior Feature and Attention Enhanced Image Inpainting,https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1721_ECCV_2022_paper.php,https://github.com/ewrfcas/MAE-FAR,
+2022,ECCV,image,High-Fidelity Image Inpainting with GAN Inversion,https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4018_ECCV_2022_paper.php,https://github.com/yeates/InvertFill,
+2022,ECCV,image,Image Inpainting with Cascaded Modulation GAN and Object-Aware Training,https://github.com/htzheng/CM-GAN-Inpainting,https://github.com/htzheng/CM-GAN-Inpainting,
+2022,ECCV,image,Unbiased Multi-Modality Guidance for Image Inpainting,https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5256_ECCV_2022_paper.php,https://github.com/yeates/MMT,
+2022,ECCV,image,Inpainting at Modern Camera Resolution by Guided PatchMatch with Auto-Curation,https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5789_ECCV_2022_paper.php,https://github.com/owenzlz/SuperCAF,
+2022,ECCV,image,Hourglass Attention Network for Image Inpainting,https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3369_ECCV_2022_paper.php,https://github.com/dengyecode/hourglassattention,
+2022,ECCV,image,Perceptual Artifacts Localization for Inpainting,https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2153_ECCV_2022_paper.php,https://github.com/owenzlz/PAL4Inpaint,
 2022,CVPR,video,Towards An End-to-End Framework for Flow-Guided Video Inpainting,https://arxiv.org/abs/2204.02663,https://github.com/MCG-NKU/E2FGVI,
 2022,CVPR,video,Inertia-Guided Flow Completion and Style Fusion for Video Inpainting,https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper,https://github.com/hitachinsk/ISVI,https://hitachinsk.github.io/publication/2022-06-01-Inertia-Guided-Flow-Completion-and-Style-Fusion-for-Video-Inpainting
 2022,CVPR,video,DLFormer: Discrete Latent Transformer for Video Inpainting,https://openaccess.thecvf.com/content/CVPR2022/html/Ren_DLFormer_Discrete_Latent_Transformer_for_Video_Inpainting_CVPR_2022_paper,,

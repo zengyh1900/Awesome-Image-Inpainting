@@ -2,7 +2,12 @@ import re
 import os 
 import csv 
 from tqdm import tqdm 
+import argparse
 import functools 
+
+parser = argparse.ArgumentParser(description = 'What the program does')
+parser.add_argument('-f', choices=['csv', 'md'], default='md')
+args = parser.parse_args()
 
 DIR_ROOT= os.path.dirname(os.path.abspath(__file__))
 COLLECTION_CSV = os.path.join(DIR_ROOT, 'collection.csv')
@@ -105,5 +110,9 @@ def csv_to_readme():
 
 
 if __name__ == '__main__':
-    csv_to_readme()
-    # readme_to_csv()
+    if args.f == 'csv':
+        readme_to_csv()
+    elif args.f == 'md':
+        csv_to_readme()
+    else:
+        raise ValueError('Invalid target format. Only support csv or md.')

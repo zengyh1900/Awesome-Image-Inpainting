@@ -9,6 +9,16 @@ We provide [scripts](.dev_scripts/main.py) to automatically generate `README.md`
 
 Welcome to pull request to update or correct this collection. 🥰
 ## Year 2022
+- **ECCV** (video) [Flow-Guided Transformer for Video Inpainting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1456_ECCV_2022_paper.php). [[code]](https://github.com/hitachinsk/FGT)  [[project]](https://hitachinsk.github.io/publication/2022-10-01-Flow-Guided-Transformer-for-Video-Inpainting) 
+- **ECCV** (video) [Error Compensation Framework for Flow-Guided Video Inpainting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2166_ECCV_2022_paper.php). [[code]](https://github.com/JaeYeonKang/ECFVI) 
+- **ECCV** (image) [Diverse Image Inpainting with Normalizing Flow](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2814_ECCV_2022_paper.php).
+- **ECCV** (image) [Learning Prior Feature and Attention Enhanced Image Inpainting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1721_ECCV_2022_paper.php). [[code]](https://github.com/ewrfcas/MAE-FAR) 
+- **ECCV** (image) [High-Fidelity Image Inpainting with GAN Inversion](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4018_ECCV_2022_paper.php). [[code]](https://github.com/yeates/InvertFill) 
+- **ECCV** (image) [Image Inpainting with Cascaded Modulation GAN and Object-Aware Training](https://github.com/htzheng/CM-GAN-Inpainting). [[code]](https://github.com/htzheng/CM-GAN-Inpainting) 
+- **ECCV** (image) [Unbiased Multi-Modality Guidance for Image Inpainting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5256_ECCV_2022_paper.php). [[code]](https://github.com/yeates/MMT) 
+- **ECCV** (image) [Inpainting at Modern Camera Resolution by Guided PatchMatch with Auto-Curation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5789_ECCV_2022_paper.php). [[code]](https://github.com/owenzlz/SuperCAF) 
+- **ECCV** (image) [Hourglass Attention Network for Image Inpainting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3369_ECCV_2022_paper.php). [[code]](https://github.com/dengyecode/hourglassattention) 
+- **ECCV** (image) [Perceptual Artifacts Localization for Inpainting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2153_ECCV_2022_paper.php). [[code]](https://github.com/owenzlz/PAL4Inpaint) 
 - **CVPR** (video) [Towards An End-to-End Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2204.02663). [[code]](https://github.com/MCG-NKU/E2FGVI) 
 - **CVPR** (video) [Inertia-Guided Flow Completion and Style Fusion for Video Inpainting](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper). [[code]](https://github.com/hitachinsk/ISVI)  [[project]](https://hitachinsk.github.io/publication/2022-06-01-Inertia-Guided-Flow-Completion-and-Style-Fusion-for-Video-Inpainting) 
 - **CVPR** (video) [DLFormer: Discrete Latent Transformer for Video Inpainting](https://openaccess.thecvf.com/content/CVPR2022/html/Ren_DLFormer_Discrete_Latent_Transformer_for_Video_Inpainting_CVPR_2022_paper).
@@ -107,7 +117,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **ECCV** (image) [Image inpainting for irregular holes using partial convolutions](https://arxiv.org/abs/1804.07723). [[project]](http://masc.cs.gmu.edu/wiki/partialconv) 
 - **ECCV** (image) [Contextual-based image inpainting: Infer, match, and translate](https://arxiv.org/abs/1711.08590).
 - **ECCV** (image) [Shift-net: Image inpainting via deep feature rearrangement](https://arxiv.org/abs/1801.09392v2). [[code]](https://github.com/Zhaoyi-Yan/Shift-Net) 
-- **CVPR** (image) [Generative image inpainting with contextual attention](https://arxiv.org/abs/1801.07892). [[code]](https://github.com/JiahuiYu/generative_inpainting) [[project]](http://jiahuiyu.com/deepfill/)  [[project]](http://jiahuiyu.com/deepfill/) 
+- **CVPR** (image) [Generative image inpainting with contextual attention](https://arxiv.org/abs/1801.07892). [[code]](https://github.com/JiahuiYu/generative_inpainting)  [[project]](http://jiahuiyu.com/deepfill/) 
 - **CVPR** (image) [Natural and effective obfuscation by head inpainting](http://openaccess.thecvf.com/content_cvpr_2018/html/Sun_Natural_and_Effective_CVPR_2018_paper).
 - **CVPR** (image) [Eye in-painting with exemplar generative adversarial networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Dolhansky_Eye_In-Painting_With_CVPR_2018_paper). [[code]](https://github.com/bdol/exemplar_gans)  [[project]](https://bdol.github.io/exemplar_gans/) 
 - **CVPR** (image) [Uv-gan: Adversarial facial uv map completion for pose-invariant face recognition](http://openaccess.thecvf.com/content_cvpr_2018/html/Deng_UV-GAN_Adversarial_Facial_CVPR_2018_paper).
@@ -128,7 +138,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **TIP** (video) [Video inpainting with short-term windows: application to object removal and error concealment](https://hal.inria.fr/hal-01204677/file/Ebdelli_videoInpainting_TIP2015.pdf).
 - **NeurIPS** (image) [Shepard convolutional neural networks](https://papers.nips.cc/paper/5774-shepard-convolutional-neural-networks.pdf). [[code]](https://github.com/jimmy-ren/vcnn_double-bladed/tree/master/applications/Shepard_CNN) 
 ## Year 2014
-- **TOG** (image) [Image completion using planar structure guidance](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf). [[code]](https://github.com/jbhuang0604/StructCompletion) [[project]](https://sites.google.com/site/jbhuang0604/publications/struct_completion)  [[project]](https://sites.google.com/site/jbhuang0604/publications/struct_completion) 
+- **TOG** (image) [Image completion using planar structure guidance](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf). [[code]](https://github.com/jbhuang0604/StructCompletion)  [[project]](https://sites.google.com/site/jbhuang0604/publications/struct_completion) 
 - **SIAM Journal on Imaging Sciences** (video) [Video inpainting of complex scenes](https://perso.telecom-paristech.fr/gousseau/video_inpainting/Video_inpainting_complex_scenes.pdf). [[project]](https://perso.telecom-paristech.fr/gousseau/video_inpainting/) 
 ## Year 2012
 - **ECCV** (video) [Background inpainting for videos with dynamic objects and a free-moving camera](https://gvv.mpi-inf.mpg.de/projects/vidbginp/granados12b_vidbginp.pdf). [[project]](https://gvv.mpi-inf.mpg.de/projects/vidbginp/index.html) 
