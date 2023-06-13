@@ -138,5 +138,5 @@ Year,Conf,Type,Ttitle,URL,Code,Project
 2000,SIGGRAPH,image,Image inpainting,https://www.cse.unr.edu/~bebis/CS474/StudentPaperPresentations/imageinpainting.pdf,,
 2023,CVPR,video,Deep Stereo Video Inpainting,https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Deep_Stereo_Video_Inpainting_CVPR_2023_paper.pdf,,
 2023,CVPR,video,Semi-Supervised Video Inpainting With Cycle Consistency Constraints,https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Semi-Supervised_Video_Inpainting_With_Cycle_Consistency_Constraints_CVPR_2023_paper.pdf,,
-2022,CVPR,image,NUWA-LIP: Language-Guided Image Inpainting With Defect-Free VQGAN,https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf,https://github.com/kodenii/NUWA-LIP,
-2022,CVPR,image,SmartBrush: Text and Shape Guided Object Inpainting With Diffusion Model,https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_SmartBrush_Text_and_Shape_Guided_Object_Inpainting_With_Diffusion_Model_CVPR_2023_paper.pdf,,
+2023,CVPR,image,NUWA-LIP: Language-Guided Image Inpainting With Defect-Free VQGAN,https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf,https://github.com/kodenii/NUWA-LIP,
+2023,CVPR,image,SmartBrush: Text and Shape Guided Object Inpainting With Diffusion Model,https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_SmartBrush_Text_and_Shape_Guided_Object_Inpainting_With_Diffusion_Model_CVPR_2023_paper.pdf,,

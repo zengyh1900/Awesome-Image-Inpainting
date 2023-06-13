@@ -12,6 +12,8 @@ Welcome to pull request to update or correct this collection. 🥰
 - **CVPR** (video) [Deep Stereo Video Inpainting](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Deep_Stereo_Video_Inpainting_CVPR_2023_paper.pdf).
 - **CVPR** (video) [Semi-Supervised Video Inpainting With Cycle Consistency Constraints](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Semi-Supervised_Video_Inpainting_With_Cycle_Consistency_Constraints_CVPR_2023_paper.pdf).
 - **CVPR** (image) [Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Imagen_Editor_and_EditBench_Advancing_and_Evaluating_Text-Guided_Image_Inpainting_CVPR_2023_paper.pdf). [[project]](https://imagen.research.google/editor/) 
+- **CVPR** (image) [NUWA-LIP: Language-Guided Image Inpainting With Defect-Free VQGAN](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf). [[code]](https://github.com/kodenii/NUWA-LIP) 
+- **CVPR** (image) [SmartBrush: Text and Shape Guided Object Inpainting With Diffusion Model](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_SmartBrush_Text_and_Shape_Guided_Object_Inpainting_With_Diffusion_Model_CVPR_2023_paper.pdf).
 ## Year 2022
 - **ECCV** (video) [Flow-Guided Transformer for Video Inpainting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1456_ECCV_2022_paper.php). [[code]](https://github.com/hitachinsk/FGT)  [[project]](https://hitachinsk.github.io/publication/2022-10-01-Flow-Guided-Transformer-for-Video-Inpainting) 
 - **ECCV** (video) [Error Compensation Framework for Flow-Guided Video Inpainting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2166_ECCV_2022_paper.php). [[code]](https://github.com/JaeYeonKang/ECFVI) 
@@ -33,8 +35,6 @@ Welcome to pull request to update or correct this collection. 🥰
 - **CVPR** (image) [MISF: Multi-level Interactive Siamese Filtering for High-Fidelity Image Inpainting](https://arxiv.org/abs/2203.06304). [[code]](https://github.com/tsingqguo/misf) 
 - **CVPR** (image) [Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding](https://arxiv.org/abs/2203.00867). [[code]](https://github.com/DQiaole/ZITS_inpainting) 
 - **CVPR** (image) [Reduce Information Loss in Transformers for Pluralistic Image Inpainting](https://arxiv.org/abs/2205.05076). [[code]](https://github.com/liuqk3/PUT) 
-- **CVPR** (image) [NUWA-LIP: Language-Guided Image Inpainting With Defect-Free VQGAN](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf). [[code]](https://github.com/kodenii/NUWA-LIP) 
-- **CVPR** (image) [SmartBrush: Text and Shape Guided Object Inpainting With Diffusion Model](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_SmartBrush_Text_and_Shape_Guided_Object_Inpainting_With_Diffusion_Model_CVPR_2023_paper.pdf).
 ## Year 2021
 - **WACV** (image) [Hyperrealistic Image Inpainting with Hypergraphs](https://openaccess.thecvf.com/content/WACV2021/papers/Wadhwa_Hyperrealistic_Image_Inpainting_With_Hypergraphs_WACV_2021_paper.pdf). [[code]](https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting) 
 - **MangoTV** (challenge) [Video Inpainting Challenge - MangoTV International Video Inpainting Challenge](https://challenge.ai.mgtv.com/contest/detail/8).
