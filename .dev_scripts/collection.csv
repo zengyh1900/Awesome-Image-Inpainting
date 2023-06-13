@@ -1,4 +1,5 @@
 Year,Conf,Type,Ttitle,URL,Code,Project
+2023,CVPR,image,Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting,https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Imagen_Editor_and_EditBench_Advancing_and_Evaluating_Text-Guided_Image_Inpainting_CVPR_2023_paper.pdf,,https://imagen.research.google/editor/
 2022,ECCV,video,Flow-Guided Transformer for Video Inpainting,https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1456_ECCV_2022_paper.php,https://github.com/hitachinsk/FGT,https://hitachinsk.github.io/publication/2022-10-01-Flow-Guided-Transformer-for-Video-Inpainting
 2022,ECCV,video,Error Compensation Framework for Flow-Guided Video Inpainting,https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2166_ECCV_2022_paper.php,https://github.com/JaeYeonKang/ECFVI,
 2022,ECCV,image,Diverse Image Inpainting with Normalizing Flow,https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2814_ECCV_2022_paper.php,,
@@ -135,3 +136,7 @@ Year,Conf,Type,Ttitle,URL,Code,Project
 2003,TIP,image,Simultaneous structure and texture image inpainting,http://www.math.ucla.edu/~lvese/PAPERS/01217265.pdf,,
 2001,CVPR,video,"Navier-stokes, fluid dynamics, and image and video inpainting",https://www.math.ucla.edu/~bertozzi/papers/cvpr01.pdf,,
 2000,SIGGRAPH,image,Image inpainting,https://www.cse.unr.edu/~bebis/CS474/StudentPaperPresentations/imageinpainting.pdf,,
+2023,CVPR,video,Deep Stereo Video Inpainting,https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Deep_Stereo_Video_Inpainting_CVPR_2023_paper.pdf,,
+2023,CVPR,video,Semi-Supervised Video Inpainting With Cycle Consistency Constraints,https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Semi-Supervised_Video_Inpainting_With_Cycle_Consistency_Constraints_CVPR_2023_paper.pdf,,
+2022,CVPR,image,NUWA-LIP: Language-Guided Image Inpainting With Defect-Free VQGAN,https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf,https://github.com/kodenii/NUWA-LIP,
+2022,CVPR,image,SmartBrush: Text and Shape Guided Object Inpainting With Diffusion Model,https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_SmartBrush_Text_and_Shape_Guided_Object_Inpainting_With_Diffusion_Model_CVPR_2023_paper.pdf,,
