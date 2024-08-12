@@ -15,6 +15,7 @@ Welcome to pull request to update or correct this collection. 🥰
 - **CVPR** (image) [NUWA-LIP: Language-Guided Image Inpainting With Defect-Free VQGAN](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf). [[code]](https://github.com/kodenii/NUWA-LIP) 
 - **CVPR** (image) [SmartBrush: Text and Shape Guided Object Inpainting With Diffusion Model](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_SmartBrush_Text_and_Shape_Guided_Object_Inpainting_With_Diffusion_Model_CVPR_2023_paper.pdf).
 ## Year 2022
+- **WACV** (image) [Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://arxiv.org/pdf/2109.07161). [[code]](https://github.com/advimman/lama)  [[project]](https://advimman.github.io/lama-project/) 
 - **ECCV** (video) [Flow-Guided Transformer for Video Inpainting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1456_ECCV_2022_paper.php). [[code]](https://github.com/hitachinsk/FGT)  [[project]](https://hitachinsk.github.io/publication/2022-10-01-Flow-Guided-Transformer-for-Video-Inpainting) 
 - **ECCV** (video) [Error Compensation Framework for Flow-Guided Video Inpainting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2166_ECCV_2022_paper.php). [[code]](https://github.com/JaeYeonKang/ECFVI) 
 - **ECCV** (image) [Diverse Image Inpainting with Normalizing Flow](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/2814_ECCV_2022_paper.php).
