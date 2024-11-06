@@ -20,6 +20,7 @@ Year,Conf,Type,Ttitle,URL,Code,Project
 2022,CVPR,image,MISF: Multi-level Interactive Siamese Filtering for High-Fidelity Image Inpainting,https://arxiv.org/abs/2203.06304,https://github.com/tsingqguo/misf,
 2022,CVPR,image,Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding,https://arxiv.org/abs/2203.00867,https://github.com/DQiaole/ZITS_inpainting,
 2022,CVPR,image,Reduce Information Loss in Transformers for Pluralistic Image Inpainting,https://arxiv.org/abs/2205.05076,https://github.com/liuqk3/PUT,
+2022,WACV,image,Resolution-robust Large Mask Inpainting with Fourier Convolutions,https://arxiv.org/pdf/2109.07161,https://github.com/advimman/lama,https://advimman.github.io/lama-project/
 2021,WACV,image,Hyperrealistic Image Inpainting with Hypergraphs,https://openaccess.thecvf.com/content/WACV2021/papers/Wadhwa_Hyperrealistic_Image_Inpainting_With_Hypergraphs_WACV_2021_paper.pdf,https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting,
 2021,MangoTV,challenge,Video Inpainting Challenge - MangoTV International Video Inpainting Challenge,https://challenge.ai.mgtv.com/contest/detail/8,,
 2021,ICLR,image,Large Scale Image Completion via Co-Modulated Generative Adversarial Networks,https://openreview.net/forum?id=sSjqmfsk95O,https://github.com/zsyzzsoft/co-mod-gan,
