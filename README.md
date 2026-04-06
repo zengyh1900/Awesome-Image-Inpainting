@@ -8,6 +8,7 @@ This `README.md` is automatically generated from [`.dev_scripts/collection.csv`]
 We provide [scripts](.dev_scripts/main.py) to automatically generate `README.md` from CSV file or vice versa.
 
 Welcome to pull request to update or correct this collection. 🥰
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for image inpainting workflow orchestration, automated restoration management, and multi-agent coordination. MIT licensed.
 ## Year 2026
 - **AAAI** (image) [FreeInpaint: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting](https://arxiv.org/abs/2512.21104). [[code]](https://github.com/CharlesGong12/FreeInpaint)
 ## Year 2025
